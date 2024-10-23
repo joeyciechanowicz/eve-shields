@@ -1,0 +1,16 @@
+{
+  "name": "eve-passive-shield",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.7.8",
+    "es6-weak-map": "^2.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3",
+    "yaml": "^2.6.0"
+  },
+  "scripts": {
+    "convert-sde": "ts-node convert-sde.ts"
+  }
+}

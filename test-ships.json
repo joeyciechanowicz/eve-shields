@@ -1,0 +1,869 @@
+[{
+	"basePrice": 11300000,
+	"capacity": 158,
+	"description": "The <i>Skybreaker</i>-class frigate was commissioned from Upwell by the New Eden Common Defense Initiative while the organization was still a counter-Triglavian strategy group headed by Provost Marshal Kasiha Valkanir. When EDENCOM was officially announced as the new central command for the defense of New Eden in YC122, the research and development of a line of ships capable of bearing radical new weaponry was widely rumored following Triglavian raids on Upwell development facilities.\r\n\r\nThe Upwell Consortium had been working on adapting Arcing Vorton Projector weaponry to a ship-based form since the success of the technology as an anti-fleet weapon on Keepstar Citadels. The first Triglavian invasions in mid-YC121 spurred that effort on even before EDENCOM underwrote the project, providing access to scientists and engineers from the secret weapons programs of the four core empires, and even the SoCT.\r\n\r\nThe <i>Skybreaker</i>-class is intended to operate in groups as an escort and counter-attack frigate. With strong shielding and high-output Arcing Vorton Projectors, this swift little ship is a disruptive counter-force in any engagement.",
+	"factionID": 500027,
+	"graphicID": 24569,
+	"groupID": 25,
+	"marketGroupID": 3536,
+	"mass": 967090,
+	"metaGroupID": 1,
+	"name": "Skybreaker",
+	"portionSize": 1,
+	"published": true,
+	"raceID": 168,
+	"radius": 39,
+	"sofFactionName": "upwell-defence",
+	"soundID": 20070,
+	"traits": {
+		"miscBonuses": [],
+		"roleBonuses": [],
+		"types": {
+			"55031": [
+				{
+					"bonus": 5,
+					"bonusText": "bonus to <a href=showinfo:55034>Small Vorton Projector</a> damage",
+					"importance": 2,
+					"unitID": 105
+				},
+				{
+					"bonus": 6,
+					"bonusText": "bonus to all shield resistances",
+					"importance": 1,
+					"unitID": 105
+				}
+			]
+		}
+	},
+	"volume": 16500,
+	"id": 54731,
+	"dogma": {
+		"dogmaAttributes": {
+			"damage": 0,
+			"hp": 320,
+			"powerOutput": 44,
+			"lowSlots": 3,
+			"medSlots": 4,
+			"hiSlots": 1,
+			"powerLoad": 0,
+			"powerToSpeed": 1,
+			"warpFactor": 0,
+			"maxVelocity": 330,
+			"cpuOutput": 235,
+			"cpuLoad": 0,
+			"rechargeRate": 157500,
+			"agility": 3.6,
+			"maxTargetRange": 55000,
+			"scanSpeed": 3000,
+			"launcherSlotsLeft": 0,
+			"turretSlotsLeft": 1,
+			"kineticDamageResonance": 0.67,
+			"thermalDamageResonance": 0.67,
+			"explosiveDamageResonance": 0.67,
+			"emDamageResonance": 0.67,
+			"mainColor": 16777215,
+			"maxPassengers": 5,
+			"uniformity": 1,
+			"warpCapacitorNeed": 0.00000224,
+			"requiredSkill1": 55031,
+			"cargoScanResistance": 0,
+			"maxLockedTargets": 5,
+			"scanRadarStrength": 0,
+			"scanLadarStrength": 0,
+			"scanMagnetometricStrength": 0,
+			"scanGravimetricStrength": 12,
+			"propulsionGraphicID": 395,
+			"gfxBoosterID": 395,
+			"shieldCapacity": 800,
+			"armorHP": 210,
+			"armorEmDamageResonance": 0.5,
+			"armorExplosiveDamageResonance": 0.9,
+			"armorKineticDamageResonance": 0.75,
+			"armorThermalDamageResonance": 0.55,
+			"shieldEmDamageResonance": 0.8,
+			"shieldExplosiveDamageResonance": 0.5,
+			"shieldKineticDamageResonance": 0.5,
+			"shieldThermalDamageResonance": 0.8,
+			"requiredSkill1Level": 1,
+			"droneCapacity": 0,
+			"techLevel": 1,
+			"shieldRechargeRate": 625000,
+			"capacitorCapacity": 420,
+			"shieldUniformity": 0.75,
+			"shipScanResistance": 0,
+			"armorUniformity": 0.75,
+			"structureUniformity": 1,
+			"signatureRadius": 37,
+			"scanResolution": 609,
+			"warpSpeedMultiplier": 5,
+			"metaLevelOld": 0,
+			"maxDirectionalVelocity": 3000,
+			"minTargetVelDmgMultiplier": 0.05,
+			"upgradeCapacity": 400,
+			"rigSlots": 3,
+			"upgradeSlotsLeft": 3,
+			"heatCapacityHi": 100,
+			"heatDissipationRateHi": 0.01,
+			"heatDissipationRateMed": 0.01,
+			"heatDissipationRateLow": 0.01,
+			"heatCapacityMed": 100,
+			"heatCapacityLow": 100,
+			"heatGenerationMultiplier": 1,
+			"heatAttenuationHi": 0.25,
+			"heatAttenuationMed": 0.63,
+			"heatAttenuationLow": 0.5,
+			"droneBandwidth": 0,
+			"baseWarpSpeed": 1,
+			"rigSize": 1,
+			"fwLpKill": 25,
+			"typeColorScheme": 11324,
+			"energyWarfareResistance": 1,
+			"weaponDisruptionResistance": 1,
+			"stasisWebifierResistance": 1,
+			"shipBonusUF1": -6,
+			"shipBonusUF2": 5
+		},
+		"dogmaEffects": [
+			{
+				"effectID": 8047,
+				"isDefault": false
+			},
+			{
+				"effectID": 8048,
+				"isDefault": false
+			}
+		]
+	}
+}, {
+    "basePrice": 400000,
+    "capacity": 150,
+    "description": "The Merlin is the most powerful combat frigate of the Caldari. Its role has evolved through the years, and while its defenses have always remained exceptionally strong for a Caldari vessel, its offensive capabilities have evolved from versatile, jack-of-all-trades attack patterns into focused and deadly gunfire tactics. The Merlin's primary aim is to have its turrets punch holes in opponents' hulls.",
+    "factionID": 500001,
+    "graphicID": 314,
+    "groupID": 25,
+    "marketGroupID": 61,
+    "mass": 997000,
+    "metaGroupID": 1,
+    "name": "Merlin",
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "radius": 39,
+    "sofFactionName": "caldaribase",
+    "soundID": 20070,
+    "traits": {
+        "types": {
+            "3330": [
+                {
+                    "bonus": 5,
+                    "bonusText": "bonus to <a href=showinfo:3301>Small Hybrid Turret</a> damage",
+                    "importance": 1,
+                    "unitID": 105
+                },
+                {
+                    "bonus": 4,
+                    "bonusText": "bonus to all shield resistances",
+                    "importance": 2,
+                    "unitID": 105
+                }
+            ]
+        }
+    },
+    "volume": 16500,
+    "id": 603,
+    "dogma": {
+        "dogmaAttributes": {
+            "damage": 0,
+            "hp": 400,
+            "powerOutput": 40,
+            "lowSlots": 3,
+            "medSlots": 4,
+            "hiSlots": 3,
+            "powerLoad": 0,
+            "powerToSpeed": 1,
+            "warpFactor": 0,
+            "maxVelocity": 310,
+            "cpuOutput": 180,
+            "cpuLoad": 0,
+            "rechargeRate": 175000,
+            "agility": 3.6,
+            "maxTargetRange": 50000,
+            "scanSpeed": 3000,
+            "launcherSlotsLeft": 0,
+            "turretSlotsLeft": 3,
+            "kineticDamageResonance": 0.67,
+            "thermalDamageResonance": 0.67,
+            "explosiveDamageResonance": 0.67,
+            "emDamageResonance": 0.67,
+            "mainColor": 16777215,
+            "maxPassengers": 5,
+            "uniformity": 1,
+            "warpCapacitorNeed": 0.00000224,
+            "requiredSkill1": 3330,
+            "cargoScanResistance": 0,
+            "maxLockedTargets": 5,
+            "scanRadarStrength": 0,
+            "scanLadarStrength": 0,
+            "scanMagnetometricStrength": 0,
+            "scanGravimetricStrength": 11,
+            "propulsionGraphicID": 395,
+            "gfxBoosterID": 395,
+            "shieldCapacity": 500,
+            "armorHP": 350,
+            "armorEmDamageResonance": 0.5,
+            "armorExplosiveDamageResonance": 0.9,
+            "armorKineticDamageResonance": 0.75,
+            "armorThermalDamageResonance": 0.55,
+            "shieldEmDamageResonance": 1,
+            "shieldExplosiveDamageResonance": 0.5,
+            "shieldKineticDamageResonance": 0.6,
+            "shieldThermalDamageResonance": 0.8,
+            "requiredSkill1Level": 1,
+            "droneCapacity": 0,
+            "techLevel": 1,
+            "shipBonusCF": -4,
+            "shieldRechargeRate": 625000,
+            "capacitorCapacity": 350,
+            "shieldUniformity": 0.75,
+            "shipScanResistance": 0,
+            "armorUniformity": 0.75,
+            "structureUniformity": 1,
+            "signatureRadius": 39,
+            "scanResolution": 580,
+            "shipBonusCF2": 5,
+            "warpSpeedMultiplier": 5,
+            "metaLevelOld": 0,
+            "maxDirectionalVelocity": 3000,
+            "minTargetVelDmgMultiplier": 0.05,
+            "upgradeCapacity": 400,
+            "rigSlots": 3,
+            "upgradeSlotsLeft": 3,
+            "heatCapacityHi": 100,
+            "heatDissipationRateHi": 0.01,
+            "heatDissipationRateMed": 0.01,
+            "heatDissipationRateLow": 0.01,
+            "heatCapacityMed": 100,
+            "heatCapacityLow": 100,
+            "heatGenerationMultiplier": 1,
+            "heatAttenuationHi": 0.5,
+            "heatAttenuationMed": 0.63,
+            "heatAttenuationLow": 0.5,
+            "droneBandwidth": 0,
+            "baseWarpSpeed": 1,
+            "rigSize": 1,
+            "fwLpKill": 25,
+            "typeColorScheme": 11324,
+            "energyWarfareResistance": 1,
+            "weaponDisruptionResistance": 1,
+            "stasisWebifierResistance": 1
+        },
+        "dogmaEffects": [
+            {
+                "effectID": 1816,
+                "isDefault": false
+            },
+            {
+                "effectID": 1817,
+                "isDefault": false
+            },
+            {
+                "effectID": 1819,
+                "isDefault": false
+            },
+            {
+                "effectID": 1820,
+                "isDefault": false
+            },
+            {
+                "effectID": 4941,
+                "isDefault": false
+            }
+        ]
+    }
+}, {
+	"basePrice": 300000,
+	"capacity": 270,
+	"description": "In YC114 each major empire faction, having been embroiled in a harrowing, extensive, long-term war, recognized the growing need for support and logistics functionality in their vessels during the kind of protracted interstellar warfare that might otherwise prove exhausting for its participants. In the Caldari State, this led to the redesign and redeployment of the Bantam.\r\n\r\nThe Bantam, a strong and sturdy craft, was originally an extremely effective mining frigate. After its redesign, the Bantam's large structure had to give way for logistics systems that ate up some of its interior room but allowed it to focus extensively on shield support for fellow vessels.",
+	"factionID": 500001,
+	"graphicID": 38,
+	"groupID": 25,
+	"marketGroupID": 61,
+	"mass": 1480000,
+	"metaGroupID": 1,
+	"name": "Bantam",
+	"portionSize": 1,
+	"published": true,
+	"raceID": 1,
+	"radius": 27,
+	"sofFactionName": "caldaribase",
+	"soundID": 20070,
+	"traits": {
+		"miscBonuses": [],
+		"roleBonuses": [
+			{
+				"bonus": 300,
+				"bonusText": "bonus to <a href=showinfo:3422>Remote Shield Booster</a> falloff",
+				"importance": 1,
+				"unitID": 105
+			}
+		],
+		"types": {
+			"3330": [
+				{
+					"bonus": 10,
+					"bonusText": "bonus to <a href=showinfo:3422>Remote Shield Booster</a> amount",
+					"importance": 1,
+					"unitID": 105
+				},
+				{
+					"bonus": 10,
+					"bonusText": "reduction in <a href=showinfo:3422>Remote Shield Booster</a> activation cost",
+					"importance": 2,
+					"unitID": 105
+				}
+			]
+		}
+	},
+	"volume": 20000,
+	"id": 582,
+	"dogma": {
+		"dogmaAttributes": {
+			"damage": 0,
+			"hp": 310,
+			"powerOutput": 39,
+			"lowSlots": 2,
+			"medSlots": 4,
+			"hiSlots": 3,
+			"powerLoad": 0,
+			"powerToSpeed": 1,
+			"warpFactor": 0,
+			"maxVelocity": 370,
+			"cpuOutput": 200,
+			"cpuLoad": 0,
+			"rechargeRate": 307500,
+			"agility": 4.1,
+			"maxTargetRange": 40000,
+			"scanSpeed": 6000,
+			"launcherSlotsLeft": 0,
+			"turretSlotsLeft": 2,
+			"kineticDamageResonance": 0.67,
+			"thermalDamageResonance": 0.67,
+			"explosiveDamageResonance": 0.67,
+			"emDamageResonance": 0.67,
+			"mainColor": 16777215,
+			"maxPassengers": 3,
+			"uniformity": 1,
+			"warpCapacitorNeed": 0.00000224,
+			"requiredSkill1": 3330,
+			"cargoScanResistance": 0,
+			"maxLockedTargets": 7,
+			"scanRadarStrength": 0,
+			"scanLadarStrength": 0,
+			"scanMagnetometricStrength": 0,
+			"scanGravimetricStrength": 12,
+			"capacitorNeedMultiplier": 0.4,
+			"propulsionGraphicID": 395,
+			"gfxBoosterID": 395,
+			"shieldCapacity": 500,
+			"armorHP": 225,
+			"armorEmDamageResonance": 0.5,
+			"armorExplosiveDamageResonance": 0.9,
+			"armorKineticDamageResonance": 0.75,
+			"armorThermalDamageResonance": 0.55,
+			"shieldEmDamageResonance": 1,
+			"shieldExplosiveDamageResonance": 0.5,
+			"shieldKineticDamageResonance": 0.6,
+			"shieldThermalDamageResonance": 0.8,
+			"requiredSkill1Level": 1,
+			"droneCapacity": 5,
+			"falloffBonus": 300,
+			"techLevel": 1,
+			"shipBonusCF": -10,
+			"shieldRechargeRate": 625000,
+			"capacitorCapacity": 615,
+			"shieldUniformity": 0.75,
+			"shipScanResistance": 0,
+			"armorUniformity": 0.75,
+			"structureUniformity": 1,
+			"signatureRadius": 35,
+			"scanResolution": 850,
+			"shipBonusCF2": 10,
+			"warpSpeedMultiplier": 5,
+			"metaLevelOld": 0,
+			"maxDirectionalVelocity": 3000,
+			"minTargetVelDmgMultiplier": 0.05,
+			"upgradeCapacity": 400,
+			"rigSlots": 3,
+			"upgradeSlotsLeft": 3,
+			"heatCapacityHi": 100,
+			"heatDissipationRateHi": 0.01,
+			"heatDissipationRateMed": 0.01,
+			"heatDissipationRateLow": 0.01,
+			"heatCapacityMed": 100,
+			"heatCapacityLow": 100,
+			"heatGenerationMultiplier": 1,
+			"heatAttenuationHi": 0.5,
+			"heatAttenuationMed": 0.63,
+			"heatAttenuationLow": 0.25,
+			"droneBandwidth": 5,
+			"baseWarpSpeed": 1,
+			"rigSize": 1,
+			"fwLpKill": 25,
+			"typeColorScheme": 11324,
+			"energyWarfareResistance": 1,
+			"weaponDisruptionResistance": 1,
+			"stasisWebifierResistance": 1
+		},
+		"dogmaEffects": [
+			{
+				"effectID": 5103,
+				"isDefault": false
+			},
+			{
+				"effectID": 5104,
+				"isDefault": false
+			},
+			{
+				"effectID": 6368,
+				"isDefault": false
+			}
+		]
+	}
+},
+{
+	"basePrice": 228900000,
+	"capacity": 475,
+	"description": "Command ships are engineered specifically to wreak havoc on a battlefield of many. Sporting advanced command module interfaces, these vessels are more than capable of turning the tide in large engagements. Command ships represent the ultimate in Command Burst efficiency; the boosts they give their comrades in combat make them indispensable assets to any well-rounded fleet.\r\n\r\nDeveloper: Boundless Creation\r\n\r\nBoundless Creation's ships are based on the Brutor tribe's philosophy of warfare: simply fit as much firepower onto your ship as possible. Defense systems and electronics arrays therefore tend to take a back seat to sheer annihilative potential.",
+	"factionID": 500002,
+	"graphicID": 2912,
+	"groupID": 540,
+	"marketGroupID": 834,
+	"mass": 12800000,
+	"metaGroupID": 2,
+	"name": "Sleipnir",
+	"portionSize": 1,
+	"published": true,
+	"raceID": 2,
+	"radius": 258,
+	"sofFactionName": "boundlesscreation",
+	"soundID": 20076,
+	"traits": {
+		"miscBonuses": [],
+		"roleBonuses": [
+			{
+				"bonusText": "Can use two <a href=showinfo:3348>Command Burst</a> modules",
+				"importance": 1
+			},
+			{
+				"bonus": 50,
+				"bonusText": "bonus to <a href=showinfo:3348>Command Burst</a> area of effect range",
+				"importance": 2,
+				"unitID": 105
+			}
+		],
+		"types": {
+			"23950": [
+				{
+					"bonus": 4,
+					"bonusText": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:3349>Skirmish Command</a> burst strength and duration",
+					"importance": 3,
+					"unitID": 105
+				},
+				{
+					"bonus": 10,
+					"bonusText": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> damage",
+					"importance": 1,
+					"unitID": 105
+				},
+				{
+					"bonus": 10,
+					"bonusText": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> falloff",
+					"importance": 2,
+					"unitID": 105
+				}
+			],
+			"33098": [
+				{
+					"bonus": 7.5,
+					"bonusText": "bonus to <a href=showinfo:3416>Shield Booster</a> amount",
+					"importance": 2,
+					"unitID": 105
+				},
+				{
+					"bonus": 10,
+					"bonusText": "bonus to <a href=showinfo:3305>Medium Projectile Turret</a> damage",
+					"importance": 1,
+					"unitID": 105
+				}
+			]
+		}
+	},
+	"variationParentTypeID": 24702,
+	"volume": 216000,
+	"id": 22444,
+	"dogma": {
+		"dogmaAttributes": {
+			"damage": 0,
+			"hp": 3700,
+			"powerOutput": 1300,
+			"lowSlots": 5,
+			"medSlots": 5,
+			"hiSlots": 7,
+			"powerLoad": 0,
+			"powerToSpeed": 1,
+			"warpFactor": 0,
+			"maxVelocity": 165,
+			"cpuOutput": 475,
+			"cpuLoad": 0,
+			"rechargeRate": 583333.75,
+			"agility": 0.704,
+			"maxTargetRange": 70000,
+			"scanSpeed": 5500,
+			"launcherSlotsLeft": 2,
+			"turretSlotsLeft": 5,
+			"kineticDamageResonance": 0.67,
+			"thermalDamageResonance": 0.67,
+			"explosiveDamageResonance": 0.67,
+			"emDamageResonance": 0.67,
+			"mainColor": 16777215,
+			"maxPassengers": 450,
+			"uniformity": 1,
+			"warpCapacitorNeed": 8.13e-7,
+			"requiredSkill1": 33098,
+			"requiredSkill2": 23950,
+			"cargoScanResistance": 0,
+			"maxLockedTargets": 7,
+			"scanRadarStrength": 0,
+			"scanLadarStrength": 20,
+			"scanMagnetometricStrength": 0,
+			"scanGravimetricStrength": 0,
+			"propulsionGraphicID": 397,
+			"gfxBoosterID": 397,
+			"shieldCapacity": 4500,
+			"armorHP": 3600,
+			"armorEmDamageResonance": 0.1,
+			"armorExplosiveDamageResonance": 0.9,
+			"armorKineticDamageResonance": 0.75,
+			"armorThermalDamageResonance": 0.325,
+			"shieldEmDamageResonance": 0.25,
+			"shieldExplosiveDamageResonance": 0.5,
+			"shieldKineticDamageResonance": 0.6,
+			"shieldThermalDamageResonance": 0.4,
+			"requiredSkill1Level": 5,
+			"requiredSkill2Level": 1,
+			"droneCapacity": 25,
+			"techLevel": 2,
+			"maxGangModules": 1,
+			"shieldRechargeRate": 1400000,
+			"capacitorCapacity": 2625,
+			"shieldUniformity": 0.75,
+			"armorUniformity": 0.75,
+			"structureUniformity": 1,
+			"signatureRadius": 240,
+			"scanResolution": 264,
+			"warpSpeedMultiplier": 4,
+			"metaLevelOld": 5,
+			"maxDirectionalVelocity": 2000,
+			"minTargetVelDmgMultiplier": 0.25,
+			"shipBonusMBC1": 7.5,
+			"shipBonusMBC2": 10,
+			"eliteBonusCommandShips2": 10,
+			"eliteBonusCommandShips1": 10,
+			"upgradeCapacity": 400,
+			"rigSlots": 2,
+			"upgradeSlotsLeft": 2,
+			"heatCapacityHi": 100,
+			"heatDissipationRateHi": 0.01,
+			"heatDissipationRateMed": 0.01,
+			"heatDissipationRateLow": 0.01,
+			"heatCapacityMed": 100,
+			"heatCapacityLow": 100,
+			"heatGenerationMultiplier": 0.65,
+			"heatAttenuationHi": 0.79,
+			"heatAttenuationMed": 0.71,
+			"heatAttenuationLow": 0.71,
+			"droneBandwidth": 25,
+			"baseWarpSpeed": 1,
+			"rigSize": 2,
+			"fwLpKill": 400,
+			"typeColorScheme": 11405,
+			"eliteBonusCommandShips3": 4,
+			"energyWarfareResistance": 1,
+			"weaponDisruptionResistance": 1,
+			"stasisWebifierResistance": 1,
+			"roleBonusCommandBurstAoERange": 50
+		},
+		"dogmaEffects": [
+			{
+				"effectID": 2155,
+				"isDefault": false
+			},
+			{
+				"effectID": 2156,
+				"isDefault": false
+			},
+			{
+				"effectID": 2251,
+				"isDefault": false
+			},
+			{
+				"effectID": 5351,
+				"isDefault": false
+			},
+			{
+				"effectID": 5486,
+				"isDefault": false
+			},
+			{
+				"effectID": 5573,
+				"isDefault": false
+			},
+			{
+				"effectID": 5574,
+				"isDefault": false
+			},
+			{
+				"effectID": 6783,
+				"isDefault": false
+			}
+		]
+	}
+},
+{
+	"basePrice": 38300000,
+	"capacity": 400,
+	"description": "Command Destroyers represent a versatile addition to fleets of all sizes. Being the smallest and most agile platforms for Command Burst technology positions them as the premier support option for fast-moving wolf packs. Unique access to Micro Jump Field Generators also allows them to perform maneuvers that rapidly reposition other ships, be they friend or foe.",
+	"factionID": 500002,
+	"graphicID": 21224,
+	"groupID": 1534,
+	"marketGroupID": 2133,
+	"mass": 1235000,
+	"metaGroupID": 2,
+	"name": "Bifrost",
+	"portionSize": 1,
+	"published": true,
+	"raceID": 2,
+	"radius": 138,
+	"sofFactionName": "corecomplexion",
+	"soundID": 20077,
+	"traits": {
+		"miscBonuses": [],
+		"roleBonuses": [
+			{
+				"bonusText": "Can fit Micro Jump Field Generators",
+				"importance": 4
+			},
+			{
+				"bonusText": "Can use one <a href=showinfo:3348>Command Burst</a> module",
+				"importance": 5
+			},
+			{
+				"bonus": 50,
+				"bonusText": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+				"importance": 2,
+				"unitID": 105
+			},
+			{
+				"bonus": 50,
+				"bonusText": "reduction in reactivation delay for <a href=showinfo:3323>Defender Launcher</a>",
+				"importance": 3,
+				"unitID": 105
+			},
+			{
+				"bonus": 95,
+				"bonusText": "reduction in powergrid requirements for <a href=showinfo:3348>Command Bursts</a>",
+				"importance": 1,
+				"unitID": 105
+			}
+		],
+		"types": {
+			"33094": [
+				{
+					"bonus": 4,
+					"bonusText": "bonus to all shield resistances",
+					"importance": 2,
+					"unitID": 105
+				},
+				{
+					"bonus": 10,
+					"bonusText": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
+					"importance": 1,
+					"unitID": 105
+				}
+			],
+			"37615": [
+				{
+					"bonus": 2,
+					"bonusText": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:3349>Skirmish Command</a> Burst effect strength and duration",
+					"importance": 2,
+					"unitID": 105
+				},
+				{
+					"bonus": 5,
+					"bonusText": "reduction in <a href=showinfo:37479>Micro Jump Field Generator</a> spool up time",
+					"importance": 1,
+					"unitID": 105
+				}
+			]
+		}
+	},
+	"variationParentTypeID": 32878,
+	"volume": 43000,
+	"id": 37480,
+	"dogma": {
+		"dogmaAttributes": {
+			"damage": 0,
+			"hp": 655,
+			"powerOutput": 58,
+			"lowSlots": 3,
+			"medSlots": 5,
+			"hiSlots": 6,
+			"powerLoad": 0,
+			"powerToSpeed": 1,
+			"warpFactor": 0,
+			"maxVelocity": 345,
+			"cpuOutput": 250,
+			"cpuLoad": 0,
+			"rechargeRate": 300000,
+			"agility": 3.3,
+			"maxTargetRange": 45000,
+			"scanSpeed": 5000,
+			"launcherSlotsLeft": 5,
+			"turretSlotsLeft": 0,
+			"kineticDamageResonance": 0.67,
+			"thermalDamageResonance": 0.67,
+			"explosiveDamageResonance": 0.67,
+			"emDamageResonance": 0.67,
+			"mainColor": 16777215,
+			"maxPassengers": 450,
+			"uniformity": 1,
+			"warpCapacitorNeed": 8.13e-7,
+			"requiredSkill1": 33094,
+			"requiredSkill2": 37615,
+			"cargoScanResistance": 0,
+			"maxLockedTargets": 7,
+			"scanRadarStrength": 0,
+			"scanLadarStrength": 11,
+			"scanMagnetometricStrength": 0,
+			"scanGravimetricStrength": 0,
+			"propulsionGraphicID": 397,
+			"gfxBoosterID": 397,
+			"shieldCapacity": 830,
+			"armorHP": 680,
+			"armorEmDamageResonance": 0.2,
+			"armorExplosiveDamageResonance": 0.9,
+			"armorKineticDamageResonance": 0.75,
+			"armorThermalDamageResonance": 0.4875,
+			"shieldEmDamageResonance": 0.5,
+			"shieldExplosiveDamageResonance": 0.5,
+			"shieldKineticDamageResonance": 0.6,
+			"shieldThermalDamageResonance": 0.6,
+			"requiredSkill1Level": 5,
+			"requiredSkill2Level": 1,
+			"droneCapacity": 0,
+			"techLevel": 2,
+			"shieldRechargeRate": 625000,
+			"capacitorCapacity": 600,
+			"shieldUniformity": 0.75,
+			"armorUniformity": 0.75,
+			"structureUniformity": 1,
+			"signatureRadius": 60,
+			"scanResolution": 550,
+			"warpSpeedMultiplier": 5.5,
+			"metaLevelOld": 5,
+			"maxDirectionalVelocity": 2000,
+			"minTargetVelDmgMultiplier": 0.25,
+			"destroyerROFpenality": 1.25,
+			"shipBonusMD1": 10,
+			"shipBonusMD2": -4,
+			"hullEmDamageResonance": 1,
+			"hullExplosiveDamageResonance": 1,
+			"hullKineticDamageResonance": 1,
+			"hullThermalDamageResonance": 1,
+			"upgradeCapacity": 400,
+			"rigSlots": 2,
+			"upgradeSlotsLeft": 2,
+			"heatCapacityHi": 100,
+			"heatDissipationRateHi": 0.01,
+			"heatDissipationRateMed": 0.01,
+			"heatDissipationRateLow": 0.01,
+			"heatCapacityMed": 100,
+			"heatCapacityLow": 100,
+			"heatGenerationMultiplier": 1,
+			"heatAttenuationHi": 0.76,
+			"heatAttenuationMed": 0.71,
+			"heatAttenuationLow": 0.5,
+			"droneBandwidth": 0,
+			"baseWarpSpeed": 1,
+			"rigSize": 1,
+			"fwLpKill": 80,
+			"typeColorScheme": 11419,
+			"MWDSignatureRadiusBonus": -50,
+			"energyWarfareResistance": 1,
+			"eliteBonusCommandDestroyer1": 2,
+			"eliteBonusCommandDestroyer2": -5,
+			"roleBonusCD": -95,
+			"weaponDisruptionResistance": 1,
+			"stasisWebifierResistance": 1,
+			"shipBonusRole1": -50
+		},
+		"dogmaEffects": [
+			{
+				"effectID": 4902,
+				"isDefault": false
+			},
+			{
+				"effectID": 6214,
+				"isDefault": false
+			},
+			{
+				"effectID": 6307,
+				"isDefault": false
+			},
+			{
+				"effectID": 6308,
+				"isDefault": false
+			},
+			{
+				"effectID": 6309,
+				"isDefault": false
+			},
+			{
+				"effectID": 6310,
+				"isDefault": false
+			},
+			{
+				"effectID": 6315,
+				"isDefault": false
+			},
+			{
+				"effectID": 6316,
+				"isDefault": false
+			},
+			{
+				"effectID": 6317,
+				"isDefault": false
+			},
+			{
+				"effectID": 6318,
+				"isDefault": false
+			},
+			{
+				"effectID": 6319,
+				"isDefault": false
+			},
+			{
+				"effectID": 6320,
+				"isDefault": false
+			},
+			{
+				"effectID": 6321,
+				"isDefault": false
+			},
+			{
+				"effectID": 6845,
+				"isDefault": false
+			}
+		]
+	}
+}]

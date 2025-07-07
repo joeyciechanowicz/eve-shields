@@ -1,6 +1,6 @@
 import fs from "node:fs";
+import AsciiTable from "ascii-table";
 import ships from "./sde-json/ships_with_dogma.json";
-import AsciiTable from 'ascii-table';
 // import ships from "./test-ships.json";
 
 /*
@@ -54,7 +54,7 @@ const rigSizeToMWD: Record<number, MWD> = {
   },
   3: {
     // Core X 500mn
-    speedIncrease: 5.20,
+    speedIncrease: 5.2,
     thrust: 150_000_000,
     pwg: 1250,
     massAddition: 50_000_000,
@@ -72,7 +72,12 @@ function calcSackingPenalty(n: number) {
   return Math.pow(Math.E, -1 * Math.pow(n / 2.67, 2));
 }
 
-function bumpDistance(v1: number, m1: number, m2: number, inertiaModifier: number) {
+function bumpDistance(
+  v1: number,
+  m1: number,
+  m2: number,
+  inertiaModifier: number
+) {
   return ((2 * v1 * m1) / (m1 + m2)) * (m2 * inertiaModifier);
 }
 
@@ -82,10 +87,32 @@ function shipStats(ship: (typeof ships)[0]) {
   baseSpeed *= 1.2473; // HG Snakes
   baseSpeed *= 1.05; // Zor Hyper Link
 
-
   const rigSize = ship.dogma.dogmaAttributes.rigSize ?? 0;
 
-  const mwd = rigSizeToMWD[rigSize]
+  const mwd = rigSizeToMWD[rigSize];
+
+  let shipPG = ship.dogma.dogmaAttributes.powerOutput;
+  shipPG *= 1.25; // PG Managment V
+  for (let i = 0; i < ship.dogma.dogmaAttributes.rigSlots; i++) {
+    shipPG *= 1.15; // Ancil current Router II
+  }
+
+  let lowSlotsUnused = ship.dogma.dogmaAttributes.lowSlots;
+  let rcuUsed = 0;
+  while (shipPG < mwd.pwg && lowSlotsUnused > 0) {
+    shipPG *= 1 + 0.15 * calcSackingPenalty(rcuUsed); // Reactor Contorl Unit II
+    rcuUsed++;
+    lowSlotsUnused--;
+  }
+  let nanosUsed = 0;
+  if (lowSlotsUnused) {
+    while (lowSlotsUnused > 0) {
+      baseSpeed *= 1 + 0.095 * calcSackingPenalty(nanosUsed);
+      nanosUsed++;
+      lowSlotsUnused--;
+    }
+  }
+
   let mwdIncrease = mwd.speedIncrease;
   mwdIncrease *= 1.25; // Acceleration Control V
 
@@ -96,9 +123,10 @@ function shipStats(ship: (typeof ships)[0]) {
 
   let mwdSpeed = baseSpeed;
   if (ship.dogma.dogmaAttributes.medSlots > 0) {
-    mwdSpeed = baseSpeed * (1 + mwdIncrease * (mwd.thrust / (ship.mass + mwd.massAddition)));
+    mwdSpeed =
+      baseSpeed *
+      (1 + mwdIncrease * (mwd.thrust / (ship.mass + mwd.massAddition)));
   }
-
 
   const m1 = (ship.mass + mwd.massAddition) / 1_000_000;
 
@@ -111,6 +139,9 @@ function shipStats(ship: (typeof ships)[0]) {
     mwdSpeed: Math.floor(mwdSpeed),
     tornadoBumpDistance: Math.floor(tornadoBump),
     orcaBumpDistance: Math.floor(orcaBump),
+    shipPG,
+    rcuUsed,
+    nanosUsed,
   };
 }
 
@@ -134,12 +165,28 @@ for (const ship of ships) {
 
 Object.keys(rigToShipStats).forEach((k) => {
   const key = Number(k);
-  rigToShipStats[key].sort((a, b) => b.tornadoBumpDistance - a.tornadoBumpDistance);
+  rigToShipStats[key].sort(
+    (a, b) => b.tornadoBumpDistance - a.tornadoBumpDistance
+  );
 
   const table = new AsciiTable();
-  table.setHeading('Ship', 'MWD Speed', 'Tornado Bump', 'Orca Bump');
-  rigToShipStats[key].forEach(row => {
-    table.addRow(row.ship, row.mwdSpeed.toLocaleString() + ' m/s', row.tornadoBumpDistance.toLocaleString() + 'km', row.orcaBumpDistance.toLocaleString() + ' km')
+  table.setHeading(
+    "Ship",
+    "MWD Speed",
+    "Tornado Bump",
+    "Orca Bump",
+    "RCU",
+    "Nanos"
+  );
+  rigToShipStats[key].forEach((row) => {
+    table.addRow(
+      row.ship,
+      row.mwdSpeed.toLocaleString() + " m/s",
+      row.tornadoBumpDistance.toLocaleString() + "km",
+      row.orcaBumpDistance.toLocaleString() + " km",
+      row.rcuUsed,
+      row.nanosUsed
+    );
   });
 
   fs.writeFileSync(
@@ -153,13 +200,24 @@ Object.keys(rigToShipStats).forEach((k) => {
   rigToShipStats[key].sort((a, b) => b.orcaBumpDistance - a.orcaBumpDistance);
 
   const table = new AsciiTable();
-  table.setHeading('Ship', 'MWD Speed', 'Tornado Bump', 'Orca Bump');
-  rigToShipStats[key].forEach(row => {
-    table.addRow(row.ship, row.mwdSpeed.toLocaleString() + ' m/s', row.tornadoBumpDistance.toLocaleString() + 'km', row.orcaBumpDistance.toLocaleString() + ' km')
+  table.setHeading(
+    "Ship",
+    "MWD Speed",
+    "Tornado Bump",
+    "Orca Bump",
+    "RCU",
+    "Nanos"
+  );
+  rigToShipStats[key].forEach((row) => {
+    table.addRow(
+      row.ship,
+      row.mwdSpeed.toLocaleString() + " m/s",
+      row.tornadoBumpDistance.toLocaleString() + "km",
+      row.orcaBumpDistance.toLocaleString() + " km",
+      row.rcuUsed,
+      row.nanosUsed
+    );
   });
 
-  fs.writeFileSync(
-    `./output/bump-orca/rig-size-${key}.txt`,
-    table.toString()
-  );
+  fs.writeFileSync(`./output/bump-orca/rig-size-${key}.txt`, table.toString());
 });

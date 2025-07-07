@@ -113,6 +113,13 @@ function shipStats(ship: (typeof ships)[0]) {
     }
   }
 
+  // Black Ops - they get a velocity increase from the cloak
+  if (ship.groupID === 898) {
+    // 650% speed increase, 72.5% speed decrease
+    // from a Dread Guristas Cloak
+    baseSpeed *= (1 + 6.5) * (1 - 0.725);
+  }
+
   let mwdIncrease = mwd.speedIncrease;
   mwdIncrease *= 1.25; // Acceleration Control V
 

@@ -1,57 +1,57 @@
 .--------------------------------------------------------------------------------------------------.
 |                    Ship                    | MWD Speed  | Tornado Bump | Orca Bump | RCU | Nanos |
 |--------------------------------------------|------------|--------------|-----------|-----|-------|
-| Polaris Enigma Frigate                     | 29,927 m/s | 26,231km     | 7,651 km  |   0 |     0 |
-| Polaris Legatus Frigate                    | 29,927 m/s | 26,231km     | 7,651 km  |   0 |     0 |
-| Concord Police Battleship                  | 368 m/s    | 3,174km      | 3,854 km  |   0 |     6 |
-| Concord SWAT Battleship                    | 322 m/s    | 2,777km      | 3,373 km  |   0 |     6 |
-| Concord Army Battleship                    | 276 m/s    | 2,380km      | 2,891 km  |   0 |     6 |
-| Concord Special Ops Battleship             | 230 m/s    | 1,984km      | 2,409 km  |   0 |     6 |
-| Concord Police Cruiser                     | 1,101 m/s  | 4,884km      | 2,190 km  |   0 |     4 |
-| Concord Police Frigate                     | 7,056 m/s  | 6,926km      | 2,041 km  |   0 |     3 |
-| Concord SWAT Frigate                       | 6,384 m/s  | 6,266km      | 1,846 km  |   0 |     3 |
-| Concord Army Frigate                       | 5,040 m/s  | 4,947km      | 1,458 km  |   0 |     3 |
-| Echo                                       | 4,690 m/s  | 4,499km      | 1,323 km  |   0 |     2 |
-| Violator                                   | 4,692 m/s  | 4,478km      | 1,316 km  |   0 |     3 |
-| Concord Special Ops Frigate                | 4,368 m/s  | 4,287km      | 1,263 km  |   0 |     3 |
-| Immolator                                  | 4,319 m/s  | 4,123km      | 1,212 km  |   0 |     2 |
-| Reaper                                     | 4,039 m/s  | 3,874km      | 1,139 km  |   0 |     2 |
-| Hematos                                    | 4,058 m/s  | 3,873km      | 1,138 km  |   0 |     2 |
-| Velator                                    | 3,992 m/s  | 3,811km      | 1,120 km  |   0 |     2 |
-| Impairor                                   | 3,927 m/s  | 3,748km      | 1,101 km  |   0 |     2 |
-| AIR Civilian Astero                        | 4,319 m/s  | 3,728km      | 1,086 km  |   0 |     2 |
-| Ibis                                       | 3,832 m/s  | 3,687km      | 1,084 km  |   0 |     2 |
-| Taipan                                     | 3,832 m/s  | 3,687km      | 1,084 km  |   0 |     2 |
-| Polaris Inspector Frigate                  | 4,092 m/s  | 3,587km      | 1,046 km  |   0 |     0 |
-| Polaris Centurion TEST                     | 4,092 m/s  | 3,587km      | 1,046 km  |   0 |     0 |
-| Polaris Centurion Frigate                  | 4,092 m/s  | 3,587km      | 1,046 km  |   0 |     0 |
-| Primae                                     | 420 m/s    | 2,070km      | 1,003 km  |   0 |     4 |
-| Citizen Venture                            | 1,613 m/s  | 1,583km      | 466 km    |   0 |     0 |
-| Caldari Shuttle                            | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Gallente Shuttle                           | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Minmatar Shuttle                           | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Amarr Shuttle                              | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Goru's Shuttle                             | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Guristas Shuttle                           | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Civilian Amarr Shuttle                     | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Civilian Caldari Shuttle                   | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Civilian Gallente Shuttle                  | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Civilian Minmatar Shuttle                  | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Apotheosis                                 | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Amarr Media Shuttle                        | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Caldari Media Shuttle                      | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Gallente Media Shuttle                     | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Minmatar Media Shuttle                     | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| InterBus Shuttle                           | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Boobook                                    | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Leopard                                    | 818 m/s    | 969km        | 291 km    |   0 |     0 |
-| Zephyr                                     | 491 m/s    | 154km        | 42 km     |   0 |     0 |
-| Capsule                                    | 245 m/s    | 81km         | 22 km     |   0 |     0 |
+| Polaris Enigma Frigate                     | 44,891 m/s | 39,347km     | 11,476 km |   0 |     0 |
+| Polaris Legatus Frigate                    | 44,891 m/s | 39,347km     | 11,476 km |   0 |     0 |
+| Concord Police Battleship                  | 553 m/s    | 4,761km      | 5,782 km  |   0 |     6 |
+| Concord SWAT Battleship                    | 484 m/s    | 4,166km      | 5,059 km  |   0 |     6 |
+| Concord Army Battleship                    | 415 m/s    | 3,571km      | 4,336 km  |   0 |     6 |
+| Concord Special Ops Battleship             | 345 m/s    | 2,976km      | 3,613 km  |   0 |     6 |
+| Concord Police Cruiser                     | 1,652 m/s  | 7,327km      | 3,286 km  |   0 |     4 |
+| Concord Police Frigate                     | 10,584 m/s | 10,389km     | 3,062 km  |   0 |     3 |
+| Concord SWAT Frigate                       | 9,576 m/s  | 9,400km      | 2,770 km  |   0 |     3 |
+| Concord Army Frigate                       | 7,560 m/s  | 7,421km      | 2,187 km  |   0 |     3 |
+| Echo                                       | 7,036 m/s  | 6,749km      | 1,984 km  |   0 |     2 |
+| Violator                                   | 7,038 m/s  | 6,718km      | 1,974 km  |   0 |     3 |
+| Concord Special Ops Frigate                | 6,552 m/s  | 6,431km      | 1,895 km  |   0 |     3 |
+| Immolator                                  | 6,479 m/s  | 6,185km      | 1,818 km  |   0 |     2 |
+| Reaper                                     | 6,058 m/s  | 5,811km      | 1,709 km  |   0 |     2 |
+| Hematos                                    | 6,087 m/s  | 5,810km      | 1,707 km  |   0 |     2 |
+| Velator                                    | 5,988 m/s  | 5,716km      | 1,680 km  |   0 |     2 |
+| Impairor                                   | 5,890 m/s  | 5,622km      | 1,652 km  |   0 |     2 |
+| AIR Civilian Astero                        | 6,479 m/s  | 5,592km      | 1,629 km  |   0 |     2 |
+| Ibis                                       | 5,748 m/s  | 5,531km      | 1,627 km  |   0 |     2 |
+| Taipan                                     | 5,748 m/s  | 5,531km      | 1,627 km  |   0 |     2 |
+| Polaris Inspector Frigate                  | 6,139 m/s  | 5,380km      | 1,569 km  |   0 |     0 |
+| Polaris Centurion TEST                     | 6,139 m/s  | 5,380km      | 1,569 km  |   0 |     0 |
+| Polaris Centurion Frigate                  | 6,139 m/s  | 5,380km      | 1,569 km  |   0 |     0 |
+| Primae                                     | 630 m/s    | 3,105km      | 1,504 km  |   0 |     4 |
+| Citizen Venture                            | 2,419 m/s  | 2,375km      | 700 km    |   0 |     0 |
+| Caldari Shuttle                            | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Gallente Shuttle                           | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Minmatar Shuttle                           | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Amarr Shuttle                              | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Goru's Shuttle                             | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Guristas Shuttle                           | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Civilian Amarr Shuttle                     | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Civilian Caldari Shuttle                   | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Civilian Gallente Shuttle                  | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Civilian Minmatar Shuttle                  | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Apotheosis                                 | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Amarr Media Shuttle                        | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Caldari Media Shuttle                      | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Gallente Media Shuttle                     | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Minmatar Media Shuttle                     | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| InterBus Shuttle                           | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Boobook                                    | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Leopard                                    | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
+| Zephyr                                     | 736 m/s    | 231km        | 63 km     |   0 |     0 |
+| Capsule                                    | 368 m/s    | 121km        | 33 km     |   0 |     0 |
 | Nation                                     | NaN m/s    | NaNkm        | NaN km    |   0 |     0 |
-| Capsule - Genolution 'Auroral' 197-variant | 245 m/s    | 81km         | 22 km     |   0 |     0 |
+| Capsule - Genolution 'Auroral' 197-variant | 368 m/s    | 121km        | 33 km     |   0 |     0 |
 | Moros Interbus Edition                     | NaN m/s    | NaNkm        | NaN km    |   0 |     0 |
 | Naglfar Justice Edition                    | NaN m/s    | NaNkm        | NaN km    |   0 |     0 |
 | Phoenix Wiyrkomi Edition                   | NaN m/s    | NaNkm        | NaN km    |   0 |     0 |
 | Revelation Sarum Edition                   | NaN m/s    | NaNkm        | NaN km    |   0 |     0 |
-| Council Diplomatic Shuttle                 | 818 m/s    | 969km        | 291 km    |   0 |     0 |
+| Council Diplomatic Shuttle                 | 1,227 m/s  | 1,454km      | 437 km    |   0 |     0 |
 '--------------------------------------------------------------------------------------------------'

@@ -1,177 +1,177 @@
-.-------------------------------------------------------------------------------------------.
-|                Ship                | MWD Speed  | Tornado Bump | Orca Bump  | RCU | Nanos |
-|------------------------------------|------------|--------------|------------|-----|-------|
-| Opux Dragoon Yacht                 | 67,952 m/s | 534,343km    | 497,780 km |   0 |     5 |
-| Bestla                             | 10,413 m/s | 81,522km     | 75,115 km  |   0 |     5 |
-| Vagabond                           | 10,249 m/s | 80,221km     | 73,882 km  |   0 |     5 |
-| Stabber                            | 10,004 m/s | 78,254km     | 71,963 km  |   0 |     4 |
-| Stabber Nefantar Edition           | 10,004 m/s | 78,254km     | 71,963 km  |   0 |     4 |
-| Stabber Krusual Edition            | 10,004 m/s | 78,254km     | 71,963 km  |   0 |     4 |
-| Exequror Navy Issue                | 9,802 m/s  | 76,645km     | 70,417 km  |   0 |     6 |
-| Scythe Fleet Issue                 | 9,830 m/s  | 76,771km     | 70,327 km  |   0 |     5 |
-| Tiamat                             | 9,506 m/s  | 73,898km     | 66,952 km  |   0 |     5 |
-| Omen Navy Issue                    | 9,344 m/s  | 72,962km     | 66,807 km  |   0 |     7 |
-| Cynabal                            | 9,507 m/s  | 73,782km     | 66,584 km  |   0 |     5 |
-| Moracha                            | 9,451 m/s  | 73,258km     | 65,923 km  |   0 |     5 |
-| Omen                               | 8,868 m/s  | 69,724km     | 64,916 km  |   0 |     6 |
-| Omen Kador Edition                 | 8,868 m/s  | 69,724km     | 64,916 km  |   0 |     6 |
-| Omen Tash-Murkon Edition           | 8,868 m/s  | 69,724km     | 64,916 km  |   0 |     6 |
-| Bellicose                          | 8,948 m/s  | 70,032km     | 64,478 km  |   0 |     4 |
-| Osprey Navy Issue                  | 8,917 m/s  | 69,839km     | 64,415 km  |   0 |     4 |
-| Stabber Fleet Issue                | 8,815 m/s  | 68,824km     | 62,998 km  |   0 |     6 |
-| Scimitar                           | 8,636 m/s  | 67,707km     | 62,599 km  |   0 |     4 |
-| Rabisu                             | 8,527 m/s  | 67,042km     | 62,419 km  |   0 |     6 |
-| Opux Luxury Yacht                  | 8,518 m/s  | 66,983km     | 62,399 km  |   0 |     6 |
-| Vigilant                           | 8,665 m/s  | 67,426km     | 61,237 km  |   0 |     6 |
-| Vedmak                             | 8,634 m/s  | 67,117km     | 60,808 km  |   0 |     6 |
-| Fiend                              | 8,682 m/s  | 67,369km     | 60,773 km  |   0 |     5 |
-| Exequror                           | 8,435 m/s  | 65,903km     | 60,424 km  |   0 |     6 |
-| Thorax                             | 8,378 m/s  | 65,509km     | 60,186 km  |   0 |     5 |
-| Thorax Aliastra Edition            | 8,378 m/s  | 65,509km     | 60,186 km  |   0 |     5 |
-| Thorax Inner Zone Shipping Edition | 8,378 m/s  | 65,509km     | 60,186 km  |   0 |     5 |
-| Zarmazd                            | 8,467 m/s  | 65,978km     | 60,119 km  |   0 |     6 |
-| Khizriel                           | 8,338 m/s  | 65,250km     | 60,061 km  |   0 |     6 |
-| Rodiva                             | 8,411 m/s  | 65,520km     | 59,645 km  |   0 |     6 |
-| Huginn                             | 8,260 m/s  | 64,645km     | 59,518 km  |   0 |     4 |
-| Muninn                             | 8,262 m/s  | 64,545km     | 59,170 km  |   0 |     6 |
-| Cybele                             | 8,249 m/s  | 64,467km     | 59,145 km  |   0 |     6 |
-| Augoror                            | 8,008 m/s  | 62,937km     | 58,539 km  |   0 |     5 |
-| Deimos                             | 8,029 m/s  | 62,822km     | 57,799 km  |   0 |     6 |
-| Phantasm                           | 8,170 m/s  | 63,525km     | 57,587 km  |   0 |     5 |
-| Orthrus                            | 8,190 m/s  | 63,631km     | 57,571 km  |   0 |     4 |
-| Adrestia                           | 8,004 m/s  | 62,547km     | 57,383 km  |   0 |     6 |
-| Laelaps                            | 8,070 m/s  | 62,901km     | 57,342 km  |   0 |     4 |
-| Oneiros                            | 7,804 m/s  | 61,388km     | 57,224 km  |   0 |     5 |
-| Rapier                             | 7,978 m/s  | 62,334km     | 57,161 km  |   0 |     4 |
-| Caracal                            | 7,873 m/s  | 61,684km     | 56,951 km  |   0 |     4 |
-| Caracal Nugoeihuvi Edition         | 7,873 m/s  | 61,684km     | 56,951 km  |   0 |     4 |
-| Caracal Wiyrkomi Edition           | 7,873 m/s  | 61,684km     | 56,951 km  |   0 |     4 |
-| Cyclone Fleet Issue                | 7,793 m/s  | 61,155km     | 56,677 km  |   0 |     5 |
-| Claymore                           | 7,596 m/s  | 59,628km     | 55,304 km  |   0 |     4 |
-| Hurricane Fleet Issue              | 7,564 m/s  | 59,429km     | 55,246 km  |   0 |     6 |
-| Ikitursa                           | 7,629 m/s  | 59,773km     | 55,183 km  |   0 |     6 |
-| Victor                             | 7,636 m/s  | 59,783km     | 55,084 km  |   0 |     5 |
-| Tornado                            | 7,334 m/s  | 58,044km     | 54,948 km  |   0 |     4 |
-| Lachesis                           | 7,512 m/s  | 58,890km     | 54,439 km  |   0 |     4 |
-| Astarte                            | 7,491 m/s  | 58,766km     | 54,421 km  |   0 |     6 |
-| Cerberus                           | 7,439 m/s  | 58,436km     | 54,290 km  |   0 |     4 |
-| Augoror Navy Issue                 | 7,604 m/s  | 59,340km     | 54,248 km  |   0 |     7 |
-| Talos                              | 7,210 m/s  | 57,114km     | 54,195 km  |   0 |     5 |
-| Sleipnir                           | 7,413 m/s  | 58,245km     | 54,146 km  |   0 |     5 |
-| Broadsword                         | 7,194 m/s  | 56,903km     | 53,777 km  |   0 |     4 |
-| Hurricane                          | 7,359 m/s  | 57,822km     | 53,753 km  |   0 |     6 |
-| Cyclone                            | 7,383 m/s  | 57,936km     | 53,694 km  |   0 |     5 |
-| Vexor Navy Issue                   | 7,534 m/s  | 58,604km     | 53,169 km  |   0 |     6 |
-| Devoter                            | 7,005 m/s  | 55,599km     | 53,005 km  |   0 |     7 |
-| Drake Navy Issue                   | 7,189 m/s  | 56,608km     | 52,905 km  |   0 |     4 |
-| Mimir                              | 7,310 m/s  | 57,228km     | 52,730 km  |   0 |     6 |
-| Zealot                             | 7,212 m/s  | 56,630km     | 52,556 km  |   0 |     7 |
-| Rupture                            | 7,229 m/s  | 56,691km     | 52,459 km  |   0 |     5 |
-| Ashimmu                            | 7,312 m/s  | 57,123km     | 52,370 km  |   0 |     6 |
-| Vangel                             | 7,228 m/s  | 56,630km     | 52,277 km  |   0 |     5 |
-| Guardian                           | 7,218 m/s  | 56,569km     | 52,257 km  |   0 |     5 |
-| Absolution                         | 7,177 m/s  | 56,307km     | 52,144 km  |   0 |     7 |
-| Celestis                           | 7,171 m/s  | 56,213km     | 51,964 km  |   1 |     4 |
-| Harbinger                          | 6,875 m/s  | 54,457km     | 51,654 km  |   0 |     6 |
-| Harbinger Navy Issue               | 6,875 m/s  | 54,457km     | 51,654 km  |   0 |     6 |
-| Deluge                             | 7,190 m/s  | 56,130km     | 51,374 km  |   2 |     0 |
-| Arazu                              | 7,113 m/s  | 55,689km     | 51,313 km  |   0 |     4 |
-| Maller                             | 6,977 m/s  | 54,877km     | 51,151 km  |   0 |     6 |
-| Test Site Maller                   | 6,977 m/s  | 54,877km     | 51,151 km  |   0 |     6 |
-| Caracal Navy Issue                 | 7,255 m/s  | 56,410km     | 51,137 km  |   0 |     3 |
-| Phobos                             | 6,890 m/s  | 54,334km     | 50,970 km  |   0 |     6 |
-| Curse                              | 7,028 m/s  | 55,045km     | 50,782 km  |   0 |     4 |
-| Victorieux Luxury Yacht            | 8,007 m/s  | 60,201km     | 50,591 km  |   4 |     0 |
-| Prophecy                           | 6,702 m/s  | 53,056km     | 50,252 km  |   0 |     7 |
-| Prophecy Navy Issue                | 6,702 m/s  | 53,056km     | 50,252 km  |   0 |     7 |
-| Arbitrator                         | 6,990 m/s  | 54,644km     | 50,172 km  |   0 |     5 |
-| Sacrilege                          | 6,931 m/s  | 54,283km     | 50,055 km  |   0 |     5 |
-| Ferox Navy Issue                   | 6,715 m/s  | 52,992km     | 49,804 km  |   0 |     4 |
-| Pilgrim                            | 6,902 m/s  | 53,986km     | 49,634 km  |   0 |     5 |
-| Oracle                             | 6,648 m/s  | 52,544km     | 49,570 km  |   0 |     6 |
-| Brutix Navy Issue                  | 6,853 m/s  | 53,680km     | 49,519 km  |   0 |     7 |
-| Eos                                | 6,793 m/s  | 53,326km     | 49,460 km  |   0 |     7 |
-| Stratios Emergency Responder       | 7,015 m/s  | 54,499km     | 49,304 km  |   0 |     5 |
-| Damnation                          | 6,687 m/s  | 52,656km     | 49,211 km  |   0 |     6 |
-| Cyclone Thukker Tribe Edition      | 6,757 m/s  | 53,044km     | 49,198 km  |   0 |     5 |
-| Drekavac                           | 6,887 m/s  | 53,749km     | 49,156 km  |   0 |     7 |
-| Vexor                              | 6,826 m/s  | 53,342km     | 48,938 km  |   0 |     5 |
-| Vexor Quafe Edition                | 6,826 m/s  | 53,342km     | 48,938 km  |   0 |     5 |
-| Onyx                               | 6,503 m/s  | 51,493km     | 48,808 km  |   0 |     4 |
-| 毒蜥级YC117年特别版                       | 6,917 m/s  | 53,789km     | 48,761 km  |   0 |     4 |
-| Nighthawk                          | 6,632 m/s  | 52,170km     | 48,647 km  |   0 |     4 |
-| Scythe                             | 6,750 m/s  | 52,754km     | 48,403 km  |   5 |     0 |
-| Stormbringer                       | 6,694 m/s  | 52,404km     | 48,282 km  |   0 |     3 |
-| Brutix                             | 6,642 m/s  | 52,022km     | 47,989 km  |   0 |     6 |
-| Etana                              | 6,546 m/s  | 51,483km     | 47,980 km  |   0 |     3 |
-| Gila                               | 6,736 m/s  | 52,381km     | 47,484 km  |   0 |     3 |
-| Enforcer                           | 6,511 m/s  | 51,109km     | 47,403 km  |   0 |     5 |
-| 银鹰级YC117年特别版                       | 6,522 m/s  | 51,073km     | 47,084 km  |   0 |     4 |
-| Moa                                | 6,495 m/s  | 50,902km     | 47,029 km  |   0 |     4 |
-| Alligator                          | 6,390 m/s  | 50,319km     | 47,026 km  |   0 |     4 |
-| Rook                               | 6,387 m/s  | 50,175km     | 46,619 km  |   0 |     3 |
-| Naga                               | 6,210 m/s  | 49,116km     | 46,418 km  |   0 |     3 |
-| Brutix Serpentis Edition           | 6,366 m/s  | 49,971km     | 46,348 km  |   0 |     6 |
-| Myrmidon Navy Issue                | 6,347 m/s  | 49,851km     | 46,307 km  |   0 |     6 |
-| Falcon                             | 6,369 m/s  | 49,954km     | 46,235 km  |   0 |     3 |
-| Stratios                           | 6,547 m/s  | 50,866km     | 46,017 km  |   0 |     5 |
-| Vulture                            | 6,116 m/s  | 48,229km     | 45,244 km  |   0 |     4 |
-| Guardian-Vexor                     | 6,319 m/s  | 49,352km     | 45,210 km  |   0 |     5 |
-| Prophecy Blood Raiders Edition     | 6,127 m/s  | 48,157km     | 44,802 km  |   0 |     7 |
-| Osprey                             | 6,210 m/s  | 48,529km     | 44,523 km  |   2 |     1 |
-| Ishtar                             | 6,191 m/s  | 48,300km     | 44,138 km  |   0 |     6 |
-| Drake                              | 5,991 m/s  | 47,174km     | 44,087 km  |   0 |     4 |
-| 伊什塔级YC117年特别版                      | 6,143 m/s  | 48,007km     | 44,044 km  |   0 |     6 |
-| 幼龙级YC117年特别版                       | 5,876 m/s  | 46,452km     | 43,839 km  |   0 |     4 |
-| Basilisk                           | 5,961 m/s  | 46,882km     | 43,693 km  |   0 |     2 |
-| Myrmidon                           | 5,937 m/s  | 46,635km     | 43,320 km  |   0 |     6 |
-| Blackbird                          | 5,893 m/s  | 46,361km     | 43,227 km  |   1 |     2 |
-| Prowler                            | 5,932 m/s  | 46,373km     | 42,578 km  |   3 |     0 |
-| Ferox                              | 5,727 m/s  | 45,199km     | 42,480 km  |   0 |     4 |
-| Monitor                            | 5,527 m/s  | 43,840km     | 41,734 km  |   0 |     0 |
-| Ferox Guristas Edition             | 5,612 m/s  | 44,160km     | 41,193 km  |   0 |     4 |
-| Gnosis                             | 5,763 m/s  | 44,877km     | 40,813 km  |   0 |     6 |
-| Eagle                              | 5,492 m/s  | 43,009km     | 39,650 km  |   0 |     4 |
-| Squall                             | 4,606 m/s  | 36,188km     | 33,641 km  |   3 |     0 |
-| Prorator                           | 4,616 m/s  | 36,030km     | 32,964 km  |   4 |     0 |
-| Chameleon                          | 4,528 m/s  | 35,490km     | 32,790 km  |   4 |     0 |
-| Viator                             | 4,532 m/s  | 35,293km     | 32,097 km  |   3 |     0 |
-| Crane                              | 4,327 m/s  | 33,808km     | 30,992 km  |   2 |     0 |
-| Hulk                               | 4,077 m/s  | 32,249km     | 30,477 km  |   3 |     0 |
-| Noctis                             | 3,970 m/s  | 31,371km     | 29,569 km  |   3 |     0 |
-| Covetor                            | 3,822 m/s  | 30,233km     | 28,573 km  |   3 |     0 |
-| Wreathe                            | 3,846 m/s  | 29,945km     | 27,234 km  |   5 |     0 |
-| Hoarder                            | 3,536 m/s  | 27,594km     | 25,221 km  |   3 |     0 |
-| Nereus                             | 3,502 m/s  | 27,386km     | 25,154 km  |   5 |     0 |
-| Badger                             | 3,453 m/s  | 26,949km     | 24,636 km  |   4 |     0 |
-| Mackinaw                           | 3,198 m/s  | 25,473km     | 24,510 km  |   3 |     0 |
-| Sigil                              | 3,381 m/s  | 26,412km     | 24,212 km  |   6 |     0 |
-| Retriever                          | 3,075 m/s  | 24,493km     | 23,567 km  |   3 |     0 |
-| Miasmos Quafe Ultra Edition        | 3,233 m/s  | 25,279km     | 23,219 km  |   3 |     0 |
-| Miasmos Quafe Ultramarine Edition  | 3,233 m/s  | 25,279km     | 23,219 km  |   3 |     0 |
-| Miasmos Amastris Edition           | 3,233 m/s  | 25,279km     | 23,219 km  |   3 |     0 |
-| Mammoth                            | 3,221 m/s  | 25,203km     | 23,195 km  |   5 |     0 |
-| Mammoth Nefantar Edition           | 3,221 m/s  | 25,203km     | 23,195 km  |   5 |     0 |
-| Kryos                              | 3,166 m/s  | 24,866km     | 23,085 km  |   4 |     0 |
-| Epithal                            | 3,158 m/s  | 24,815km     | 23,068 km  |   4 |     0 |
-| Miasmos                            | 3,150 m/s  | 24,763km     | 23,051 km  |   4 |     0 |
-| Mastodon                           | 2,884 m/s  | 23,078km     | 22,469 km  |   4 |     0 |
-| Tayra                              | 3,017 m/s  | 23,725km     | 22,089 km  |   4 |     0 |
-| Tayra Wiyrkomi Edition             | 3,017 m/s  | 23,725km     | 22,089 km  |   4 |     0 |
-| Bestower                           | 2,865 m/s  | 22,560km     | 21,084 km  |   6 |     0 |
-| Bestower Tash-Murkon Edition       | 2,865 m/s  | 22,560km     | 21,084 km  |   6 |     0 |
-| Occator                            | 2,651 m/s  | 21,201km     | 20,613 km  |   6 |     0 |
-| Skiff                              | 2,615 m/s  | 20,973km     | 20,531 km  |   3 |     0 |
-| Iteron Mark V                      | 2,735 m/s  | 21,535km     | 20,126 km  |   5 |     0 |
-| Iteron Inner Zone Shipping Edition | 2,735 m/s  | 21,535km     | 20,126 km  |   5 |     0 |
-| Porpoise                           | 3,007 m/s  | 22,951km     | 19,922 km  |   2 |     0 |
-| Torrent                            | 2,384 m/s  | 19,107km     | 18,679 km  |   3 |     0 |
-| Procurer                           | 2,378 m/s  | 19,066km     | 18,664 km  |   3 |     0 |
-| Impel                              | 2,154 m/s  | 17,252km     | 16,832 km  |   7 |     0 |
-| Mackinaw ORE Development Edition   | 2,140 m/s  | 17,160km     | 16,798 km  |   3 |     0 |
-| Bustard                            | 1,902 m/s  | 15,253km     | 14,931 km  |   3 |     0 |
-| Proteus                            | 376 m/s    | 2,962km      | 2,764 km   |   0 |     0 |
-| Legion                             | 302 m/s    | 2,391km      | 2,252 km   |   0 |     0 |
-| Loki                               | 302 m/s    | 2,386km      | 2,235 km   |   0 |     0 |
-| Tengu                              | 278 m/s    | 2,197km      | 2,067 km   |   0 |     0 |
-'-------------------------------------------------------------------------------------------'
+.--------------------------------------------------------------------------------------------.
+|                Ship                |  MWD Speed  | Tornado Bump | Orca Bump  | RCU | Nanos |
+|------------------------------------|-------------|--------------|------------|-----|-------|
+| Opux Dragoon Yacht                 | 101,929 m/s | 801,515km    | 746,670 km |   0 |     5 |
+| Bestla                             | 15,620 m/s  | 122,283km    | 112,673 km |   0 |     5 |
+| Vagabond                           | 15,374 m/s  | 120,332km    | 110,823 km |   0 |     5 |
+| Stabber                            | 15,006 m/s  | 117,382km    | 107,945 km |   0 |     4 |
+| Stabber Nefantar Edition           | 15,006 m/s  | 117,382km    | 107,945 km |   0 |     4 |
+| Stabber Krusual Edition            | 15,006 m/s  | 117,382km    | 107,945 km |   0 |     4 |
+| Exequror Navy Issue                | 14,703 m/s  | 114,968km    | 105,626 km |   0 |     6 |
+| Scythe Fleet Issue                 | 14,745 m/s  | 115,156km    | 105,491 km |   0 |     5 |
+| Tiamat                             | 14,259 m/s  | 110,848km    | 100,428 km |   0 |     5 |
+| Omen Navy Issue                    | 14,016 m/s  | 109,444km    | 100,211 km |   0 |     7 |
+| Cynabal                            | 14,260 m/s  | 110,674km    | 99,877 km  |   0 |     5 |
+| Moracha                            | 14,176 m/s  | 109,887km    | 98,885 km  |   0 |     5 |
+| Omen                               | 13,303 m/s  | 104,586km    | 97,374 km  |   0 |     6 |
+| Omen Kador Edition                 | 13,303 m/s  | 104,586km    | 97,374 km  |   0 |     6 |
+| Omen Tash-Murkon Edition           | 13,303 m/s  | 104,586km    | 97,374 km  |   0 |     6 |
+| Bellicose                          | 13,423 m/s  | 105,049km    | 96,717 km  |   0 |     4 |
+| Osprey Navy Issue                  | 13,376 m/s  | 104,759km    | 96,623 km  |   0 |     4 |
+| Stabber Fleet Issue                | 13,223 m/s  | 103,236km    | 94,497 km  |   0 |     6 |
+| Scimitar                           | 12,955 m/s  | 101,561km    | 93,899 km  |   0 |     4 |
+| Rabisu                             | 12,791 m/s  | 100,563km    | 93,629 km  |   0 |     6 |
+| Opux Luxury Yacht                  | 12,777 m/s  | 100,474km    | 93,599 km  |   0 |     6 |
+| Vigilant                           | 12,997 m/s  | 101,140km    | 91,855 km  |   0 |     6 |
+| Vedmak                             | 12,951 m/s  | 100,676km    | 91,213 km  |   0 |     6 |
+| Fiend                              | 13,023 m/s  | 101,054km    | 91,160 km  |   0 |     5 |
+| Exequror                           | 12,653 m/s  | 98,854km     | 90,636 km  |   0 |     6 |
+| Thorax                             | 12,567 m/s  | 98,264km     | 90,279 km  |   0 |     5 |
+| Thorax Aliastra Edition            | 12,567 m/s  | 98,264km     | 90,279 km  |   0 |     5 |
+| Thorax Inner Zone Shipping Edition | 12,567 m/s  | 98,264km     | 90,279 km  |   0 |     5 |
+| Zarmazd                            | 12,700 m/s  | 98,968km     | 90,179 km  |   0 |     6 |
+| Khizriel                           | 12,507 m/s  | 97,875km     | 90,091 km  |   0 |     6 |
+| Rodiva                             | 12,617 m/s  | 98,281km     | 89,467 km  |   0 |     6 |
+| Huginn                             | 12,390 m/s  | 96,968km     | 89,277 km  |   0 |     4 |
+| Muninn                             | 12,393 m/s  | 96,818km     | 88,755 km  |   0 |     6 |
+| Cybele                             | 12,374 m/s  | 96,701km     | 88,718 km  |   0 |     6 |
+| Augoror                            | 12,013 m/s  | 94,406km     | 87,809 km  |   0 |     5 |
+| Deimos                             | 12,044 m/s  | 94,233km     | 86,698 km  |   0 |     6 |
+| Phantasm                           | 12,255 m/s  | 95,288km     | 86,380 km  |   0 |     5 |
+| Orthrus                            | 12,285 m/s  | 95,447km     | 86,357 km  |   0 |     4 |
+| Adrestia                           | 12,006 m/s  | 93,821km     | 86,075 km  |   0 |     6 |
+| Laelaps                            | 12,106 m/s  | 94,351km     | 86,013 km  |   0 |     4 |
+| Oneiros                            | 11,707 m/s  | 92,082km     | 85,836 km  |   0 |     5 |
+| Rapier                             | 11,967 m/s  | 93,502km     | 85,742 km  |   0 |     4 |
+| Caracal                            | 11,809 m/s  | 92,527km     | 85,427 km  |   0 |     4 |
+| Caracal Nugoeihuvi Edition         | 11,809 m/s  | 92,527km     | 85,427 km  |   0 |     4 |
+| Caracal Wiyrkomi Edition           | 11,809 m/s  | 92,527km     | 85,427 km  |   0 |     4 |
+| Cyclone Fleet Issue                | 11,690 m/s  | 91,732km     | 85,015 km  |   0 |     5 |
+| Claymore                           | 11,394 m/s  | 89,442km     | 82,956 km  |   0 |     4 |
+| Hurricane Fleet Issue              | 11,346 m/s  | 89,143km     | 82,869 km  |   0 |     6 |
+| Ikitursa                           | 11,444 m/s  | 89,660km     | 82,775 km  |   0 |     6 |
+| Victor                             | 11,455 m/s  | 89,674km     | 82,627 km  |   0 |     5 |
+| Tornado                            | 11,001 m/s  | 87,067km     | 82,422 km  |   0 |     4 |
+| Lachesis                           | 11,268 m/s  | 88,335km     | 81,658 km  |   0 |     4 |
+| Astarte                            | 11,237 m/s  | 88,149km     | 81,631 km  |   0 |     6 |
+| Cerberus                           | 11,159 m/s  | 87,654km     | 81,435 km  |   0 |     4 |
+| Augoror Navy Issue                 | 11,407 m/s  | 89,011km     | 81,372 km  |   0 |     7 |
+| Talos                              | 10,815 m/s  | 85,671km     | 81,293 km  |   0 |     5 |
+| Sleipnir                           | 11,120 m/s  | 87,368km     | 81,219 km  |   0 |     5 |
+| Broadsword                         | 10,792 m/s  | 85,355km     | 80,666 km  |   0 |     4 |
+| Hurricane                          | 11,039 m/s  | 86,734km     | 80,630 km  |   0 |     6 |
+| Cyclone                            | 11,074 m/s  | 86,904km     | 80,541 km  |   0 |     5 |
+| Vexor Navy Issue                   | 11,301 m/s  | 87,907km     | 79,753 km  |   0 |     6 |
+| Devoter                            | 10,508 m/s  | 83,399km     | 79,508 km  |   0 |     7 |
+| Drake Navy Issue                   | 10,784 m/s  | 84,913km     | 79,358 km  |   0 |     4 |
+| Mimir                              | 10,965 m/s  | 85,842km     | 79,096 km  |   0 |     6 |
+| Zealot                             | 10,819 m/s  | 84,946km     | 78,835 km  |   0 |     7 |
+| Rupture                            | 10,843 m/s  | 85,036km     | 78,688 km  |   0 |     5 |
+| Ashimmu                            | 10,968 m/s  | 85,684km     | 78,555 km  |   0 |     6 |
+| Vangel                             | 10,842 m/s  | 84,946km     | 78,416 km  |   0 |     5 |
+| Guardian                           | 10,828 m/s  | 84,854km     | 78,386 km  |   0 |     5 |
+| Absolution                         | 10,766 m/s  | 84,461km     | 78,216 km  |   0 |     7 |
+| Celestis                           | 10,756 m/s  | 84,319km     | 77,946 km  |   1 |     4 |
+| Harbinger                          | 10,313 m/s  | 81,686km     | 77,481 km  |   0 |     6 |
+| Harbinger Navy Issue               | 10,313 m/s  | 81,686km     | 77,481 km  |   0 |     6 |
+| Deluge                             | 10,785 m/s  | 84,196km     | 77,062 km  |   2 |     0 |
+| Arazu                              | 10,670 m/s  | 83,534km     | 76,969 km  |   0 |     4 |
+| Maller                             | 10,465 m/s  | 82,316km     | 76,727 km  |   0 |     6 |
+| Test Site Maller                   | 10,465 m/s  | 82,316km     | 76,727 km  |   0 |     6 |
+| Caracal Navy Issue                 | 10,882 m/s  | 84,616km     | 76,706 km  |   0 |     3 |
+| Phobos                             | 10,335 m/s  | 81,501km     | 76,456 km  |   0 |     6 |
+| Curse                              | 10,542 m/s  | 82,568km     | 76,174 km  |   0 |     4 |
+| Victorieux Luxury Yacht            | 12,011 m/s  | 90,302km     | 75,887 km  |   4 |     0 |
+| Prophecy                           | 10,053 m/s  | 79,584km     | 75,378 km  |   0 |     7 |
+| Prophecy Navy Issue                | 10,053 m/s  | 79,584km     | 75,378 km  |   0 |     7 |
+| Arbitrator                         | 10,485 m/s  | 81,966km     | 75,258 km  |   0 |     5 |
+| Sacrilege                          | 10,397 m/s  | 81,424km     | 75,083 km  |   0 |     5 |
+| Ferox Navy Issue                   | 10,072 m/s  | 79,488km     | 74,706 km  |   0 |     4 |
+| Pilgrim                            | 10,353 m/s  | 80,980km     | 74,452 km  |   0 |     5 |
+| Oracle                             | 9,972 m/s   | 78,817km     | 74,356 km  |   0 |     6 |
+| Brutix Navy Issue                  | 10,280 m/s  | 80,521km     | 74,279 km  |   0 |     7 |
+| Eos                                | 10,190 m/s  | 79,990km     | 74,190 km  |   0 |     7 |
+| Stratios Emergency Responder       | 10,522 m/s  | 81,749km     | 73,957 km  |   0 |     5 |
+| Damnation                          | 10,031 m/s  | 78,985km     | 73,817 km  |   0 |     6 |
+| Cyclone Thukker Tribe Edition      | 10,136 m/s  | 79,566km     | 73,797 km  |   0 |     5 |
+| Drekavac                           | 10,330 m/s  | 80,624km     | 73,734 km  |   0 |     7 |
+| Vexor                              | 10,239 m/s  | 80,013km     | 73,408 km  |   0 |     5 |
+| Vexor Quafe Edition                | 10,239 m/s  | 80,013km     | 73,408 km  |   0 |     5 |
+| Onyx                               | 9,754 m/s   | 77,240km     | 73,212 km  |   0 |     4 |
+| 毒蜥级YC117年特别版                       | 10,376 m/s  | 80,684km     | 73,141 km  |   0 |     4 |
+| Nighthawk                          | 9,948 m/s   | 78,256km     | 72,970 km  |   0 |     4 |
+| Scythe                             | 10,126 m/s  | 79,132km     | 72,604 km  |   5 |     0 |
+| Stormbringer                       | 10,041 m/s  | 78,606km     | 72,423 km  |   0 |     3 |
+| Brutix                             | 9,963 m/s   | 78,033km     | 71,984 km  |   0 |     6 |
+| Etana                              | 9,819 m/s   | 77,225km     | 71,971 km  |   0 |     3 |
+| Gila                               | 10,105 m/s  | 78,572km     | 71,227 km  |   0 |     3 |
+| Enforcer                           | 9,766 m/s   | 76,663km     | 71,104 km  |   0 |     5 |
+| 银鹰级YC117年特别版                       | 9,784 m/s   | 76,609km     | 70,627 km  |   0 |     4 |
+| Moa                                | 9,742 m/s   | 76,353km     | 70,544 km  |   0 |     4 |
+| Alligator                          | 9,586 m/s   | 75,478km     | 70,540 km  |   0 |     4 |
+| Rook                               | 9,581 m/s   | 75,263km     | 69,928 km  |   0 |     3 |
+| Naga                               | 9,315 m/s   | 73,675km     | 69,628 km  |   0 |     3 |
+| Brutix Serpentis Edition           | 9,549 m/s   | 74,957km     | 69,522 km  |   0 |     6 |
+| Myrmidon Navy Issue                | 9,520 m/s   | 74,777km     | 69,461 km  |   0 |     6 |
+| Falcon                             | 9,554 m/s   | 74,931km     | 69,353 km  |   0 |     3 |
+| Stratios                           | 9,821 m/s   | 76,299km     | 69,026 km  |   0 |     5 |
+| Vulture                            | 9,174 m/s   | 72,344km     | 67,866 km  |   0 |     4 |
+| Guardian-Vexor                     | 9,479 m/s   | 74,029km     | 67,815 km  |   0 |     5 |
+| Prophecy Blood Raiders Edition     | 9,191 m/s   | 72,236km     | 67,203 km  |   0 |     7 |
+| Osprey                             | 9,315 m/s   | 72,794km     | 66,784 km  |   2 |     1 |
+| Ishtar                             | 9,286 m/s   | 72,450km     | 66,207 km  |   0 |     6 |
+| Drake                              | 8,987 m/s   | 70,761km     | 66,131 km  |   0 |     4 |
+| 伊什塔级YC117年特别版                      | 9,215 m/s   | 72,011km     | 66,066 km  |   0 |     6 |
+| 幼龙级YC117年特别版                       | 8,814 m/s   | 69,678km     | 65,758 km  |   0 |     4 |
+| Basilisk                           | 8,941 m/s   | 70,324km     | 65,539 km  |   0 |     2 |
+| Myrmidon                           | 8,906 m/s   | 69,953km     | 64,980 km  |   0 |     6 |
+| Blackbird                          | 8,840 m/s   | 69,542km     | 64,840 km  |   1 |     2 |
+| Prowler                            | 8,898 m/s   | 69,560km     | 63,868 km  |   3 |     0 |
+| Ferox                              | 8,591 m/s   | 67,798km     | 63,720 km  |   0 |     4 |
+| Monitor                            | 8,290 m/s   | 65,760km     | 62,602 km  |   0 |     0 |
+| Ferox Guristas Edition             | 8,419 m/s   | 66,240km     | 61,789 km  |   0 |     4 |
+| Gnosis                             | 8,645 m/s   | 67,316km     | 61,220 km  |   0 |     6 |
+| Eagle                              | 8,239 m/s   | 64,513km     | 59,475 km  |   0 |     4 |
+| Squall                             | 6,909 m/s   | 54,283km     | 50,462 km  |   3 |     0 |
+| Prorator                           | 6,924 m/s   | 54,045km     | 49,446 km  |   4 |     0 |
+| Chameleon                          | 6,792 m/s   | 53,236km     | 49,186 km  |   4 |     0 |
+| Viator                             | 6,799 m/s   | 52,939km     | 48,145 km  |   3 |     0 |
+| Crane                              | 6,491 m/s   | 50,712km     | 46,488 km  |   2 |     0 |
+| Hulk                               | 6,116 m/s   | 48,374km     | 45,716 km  |   3 |     0 |
+| Noctis                             | 5,956 m/s   | 47,056km     | 44,354 km  |   3 |     0 |
+| Covetor                            | 5,734 m/s   | 45,350km     | 42,859 km  |   3 |     0 |
+| Wreathe                            | 5,769 m/s   | 44,918km     | 40,851 km  |   5 |     0 |
+| Hoarder                            | 5,305 m/s   | 41,391km     | 37,832 km  |   3 |     0 |
+| Nereus                             | 5,254 m/s   | 41,079km     | 37,732 km  |   5 |     0 |
+| Badger                             | 5,180 m/s   | 40,424km     | 36,955 km  |   4 |     0 |
+| Mackinaw                           | 4,797 m/s   | 38,209km     | 36,765 km  |   3 |     0 |
+| Sigil                              | 5,071 m/s   | 39,618km     | 36,319 km  |   6 |     0 |
+| Retriever                          | 4,612 m/s   | 36,740km     | 35,351 km  |   3 |     0 |
+| Miasmos Quafe Ultra Edition        | 4,850 m/s   | 37,919km     | 34,829 km  |   3 |     0 |
+| Miasmos Quafe Ultramarine Edition  | 4,850 m/s   | 37,919km     | 34,829 km  |   3 |     0 |
+| Miasmos Amastris Edition           | 4,850 m/s   | 37,919km     | 34,829 km  |   3 |     0 |
+| Mammoth                            | 4,831 m/s   | 37,804km     | 34,792 km  |   5 |     0 |
+| Mammoth Nefantar Edition           | 4,831 m/s   | 37,804km     | 34,792 km  |   5 |     0 |
+| Kryos                              | 4,750 m/s   | 37,299km     | 34,628 km  |   4 |     0 |
+| Epithal                            | 4,737 m/s   | 37,222km     | 34,603 km  |   4 |     0 |
+| Miasmos                            | 4,725 m/s   | 37,145km     | 34,577 km  |   4 |     0 |
+| Mastodon                           | 4,326 m/s   | 34,618km     | 33,704 km  |   4 |     0 |
+| Tayra                              | 4,526 m/s   | 35,587km     | 33,133 km  |   4 |     0 |
+| Tayra Wiyrkomi Edition             | 4,526 m/s   | 35,587km     | 33,133 km  |   4 |     0 |
+| Bestower                           | 4,297 m/s   | 33,840km     | 31,626 km  |   6 |     0 |
+| Bestower Tash-Murkon Edition       | 4,297 m/s   | 33,840km     | 31,626 km  |   6 |     0 |
+| Occator                            | 3,976 m/s   | 31,802km     | 30,920 km  |   6 |     0 |
+| Skiff                              | 3,923 m/s   | 31,460km     | 30,796 km  |   3 |     0 |
+| Iteron Mark V                      | 4,102 m/s   | 32,302km     | 30,189 km  |   5 |     0 |
+| Iteron Inner Zone Shipping Edition | 4,102 m/s   | 32,302km     | 30,189 km  |   5 |     0 |
+| Porpoise                           | 4,511 m/s   | 34,427km     | 29,884 km  |   2 |     0 |
+| Torrent                            | 3,576 m/s   | 28,661km     | 28,019 km  |   3 |     0 |
+| Procurer                           | 3,567 m/s   | 28,600km     | 27,997 km  |   3 |     0 |
+| Impel                              | 3,232 m/s   | 25,879km     | 25,248 km  |   7 |     0 |
+| Mackinaw ORE Development Edition   | 3,210 m/s   | 25,740km     | 25,197 km  |   3 |     0 |
+| Bustard                            | 2,853 m/s   | 22,880km     | 22,397 km  |   3 |     0 |
+| Proteus                            | 564 m/s     | 4,444km      | 4,147 km   |   0 |     0 |
+| Legion                             | 454 m/s     | 3,587km      | 3,378 km   |   0 |     0 |
+| Loki                               | 454 m/s     | 3,580km      | 3,353 km   |   0 |     0 |
+| Tengu                              | 417 m/s     | 3,295km      | 3,100 km   |   0 |     0 |
+'--------------------------------------------------------------------------------------------'

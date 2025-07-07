@@ -1,58 +1,58 @@
 .--------------------------------------------------------------------------------------.
 |              Ship               | MWD Speed | Tornado Bump | Orca Bump | RCU | Nanos |
 |---------------------------------|-----------|--------------|-----------|-----|-------|
-| Bowhead                         | 1,241 m/s | 11,913km     | 24,344 km |   3 |     0 |
-| Nidhoggur                       | 1,181 m/s | 11,426km     | 24,658 km |   0 |     5 |
-| Lif                             | 1,164 m/s | 11,263km     | 24,331 km |   0 |     5 |
-| Dagon                           | 1,141 m/s | 11,042km     | 23,893 km |   0 |     8 |
-| Thanatos                        | 1,120 m/s | 10,837km     | 23,379 km |   0 |     6 |
-| Vanguard                        | 1,120 m/s | 10,837km     | 23,379 km |   0 |     6 |
-| Zirnitra                        | 1,117 m/s | 10,807km     | 23,206 km |   0 |     8 |
-| Vehement                        | 1,104 m/s | 10,688km     | 23,081 km |   0 |     7 |
-| Ninazu                          | 1,104 m/s | 10,681km     | 23,067 km |   0 |     6 |
-| Venerable                       | 1,104 m/s | 10,681km     | 23,067 km |   0 |     6 |
-| Archon                          | 1,099 m/s | 10,637km     | 22,979 km |   0 |     7 |
-| Naglfar                         | 1,098 m/s | 10,630km     | 22,965 km |   0 |     6 |
-| Naglfar Fleet Issue             | 1,098 m/s | 10,630km     | 22,965 km |   0 |     6 |
-| Valravn                         | 1,098 m/s | 10,630km     | 22,965 km |   0 |     6 |
-| Chemosh                         | 1,084 m/s | 10,489km     | 22,682 km |   0 |     8 |
-| Apostle                         | 1,073 m/s | 10,391km     | 22,486 km |   0 |     7 |
-| Loggerhead                      | 1,064 m/s | 10,299km     | 22,280 km |   0 |     4 |
-| Rorqual                         | 1,056 m/s | 10,194km     | 21,563 km |   0 |     4 |
-| Moros                           | 1,035 m/s | 10,021km     | 21,641 km |   0 |     8 |
-| Moros Navy Issue                | 1,035 m/s | 10,021km     | 21,641 km |   0 |     8 |
-| Hubris                          | 1,035 m/s | 10,021km     | 21,641 km |   0 |     8 |
-| Chimera                         | 1,026 m/s | 9,933km      | 21,444 km |   0 |     4 |
-| Caiman                          | 1,022 m/s | 9,891km      | 21,374 km |   0 |     5 |
-| Revelation                      | 1,016 m/s | 9,833km      | 21,264 km |   0 |     8 |
-| Revelation Navy Issue           | 1,016 m/s | 9,833km      | 21,264 km |   0 |     8 |
-| Bane                            | 1,016 m/s | 9,833km      | 21,264 km |   0 |     8 |
-| Vendetta                        | 1,008 m/s | 9,769km      | 21,312 km |   0 |     7 |
-| Minokawa                        | 997 m/s   | 9,656km      | 20,887 km |   0 |     4 |
-| Hel                             | 985 m/s   | 9,551km      | 20,862 km |   0 |     5 |
-| Phoenix                         | 954 m/s   | 9,231km      | 19,949 km |   0 |     5 |
-| Phoenix Navy Issue              | 954 m/s   | 9,231km      | 19,949 km |   0 |     5 |
-| Karura                          | 954 m/s   | 9,231km      | 19,949 km |   0 |     5 |
-| Nyx                             | 949 m/s   | 9,194km      | 20,059 km |   0 |     7 |
-| Revenant                        | 948 m/s   | 9,189km      | 20,047 km |   0 |     6 |
-| Azariel                         | 921 m/s   | 8,942km      | 19,733 km |   0 |     7 |
-| Aeon                            | 887 m/s   | 8,604km      | 18,848 km |   0 |     8 |
-| Wyvern                          | 845 m/s   | 8,190km      | 17,909 km |   0 |     4 |
-| Rorqual ORE Development Edition | 824 m/s   | 7,970km      | 17,169 km |   0 |     3 |
-| Ragnarok                        | 775 m/s   | 7,525km      | 16,607 km |   0 |     6 |
-| Vanquisher                      | 749 m/s   | 7,270km      | 16,019 km |   0 |     8 |
-| Avalanche                       | 744 m/s   | 7,186km      | 15,334 km |   3 |     0 |
-| Erebus                          | 699 m/s   | 6,785km      | 14,950 km |   0 |     7 |
-| Komodo                          | 610 m/s   | 5,928km      | 13,101 km |   0 |     5 |
-| Molok                           | 596 m/s   | 5,791km      | 12,816 km |   0 |     8 |
-| Leviathan                       | 563 m/s   | 5,472km      | 12,093 km |   0 |     5 |
-| Avatar                          | 550 m/s   | 5,346km      | 11,830 km |   0 |     8 |
-| Nomad                           | 157 m/s   | 1,516km      | 3,210 km  |   3 |     0 |
-| Ark                             | 137 m/s   | 1,327km      | 2,824 km  |   3 |     0 |
-| Fenrir                          | 130 m/s   | 1,263km      | 2,675 km  |   3 |     0 |
-| Anshar                          | 127 m/s   | 1,233km      | 2,628 km  |   3 |     0 |
-| Rhea                            | 117 m/s   | 1,138km      | 2,429 km  |   3 |     0 |
-| Providence                      | 114 m/s   | 1,106km      | 2,353 km  |   3 |     0 |
-| Obelisk                         | 106 m/s   | 1,027km      | 2,190 km  |   3 |     0 |
-| Charon                          | 98 m/s    | 948km        | 2,024 km  |   3 |     0 |
+| Bowhead                         | 1,862 m/s | 17,870km     | 36,516 km |   3 |     0 |
+| Nidhoggur                       | 1,771 m/s | 17,139km     | 36,988 km |   0 |     5 |
+| Lif                             | 1,746 m/s | 16,894km     | 36,497 km |   0 |     5 |
+| Dagon                           | 1,711 m/s | 16,563km     | 35,840 km |   0 |     8 |
+| Thanatos                        | 1,680 m/s | 16,256km     | 35,069 km |   0 |     6 |
+| Vanguard                        | 1,680 m/s | 16,256km     | 35,069 km |   0 |     6 |
+| Zirnitra                        | 1,676 m/s | 16,210km     | 34,809 km |   0 |     8 |
+| Vehement                        | 1,657 m/s | 16,032km     | 34,622 km |   0 |     7 |
+| Ninazu                          | 1,656 m/s | 16,022km     | 34,601 km |   0 |     6 |
+| Venerable                       | 1,656 m/s | 16,022km     | 34,601 km |   0 |     6 |
+| Archon                          | 1,649 m/s | 15,956km     | 34,469 km |   0 |     7 |
+| Naglfar                         | 1,648 m/s | 15,946km     | 34,448 km |   0 |     6 |
+| Naglfar Fleet Issue             | 1,648 m/s | 15,946km     | 34,448 km |   0 |     6 |
+| Valravn                         | 1,648 m/s | 15,946km     | 34,448 km |   0 |     6 |
+| Chemosh                         | 1,626 m/s | 15,733km     | 34,023 km |   0 |     8 |
+| Apostle                         | 1,610 m/s | 15,587km     | 33,729 km |   0 |     7 |
+| Loggerhead                      | 1,596 m/s | 15,449km     | 33,420 km |   0 |     4 |
+| Rorqual                         | 1,585 m/s | 15,291km     | 32,344 km |   0 |     4 |
+| Moros                           | 1,553 m/s | 15,031km     | 32,461 km |   0 |     8 |
+| Moros Navy Issue                | 1,553 m/s | 15,031km     | 32,461 km |   0 |     8 |
+| Hubris                          | 1,553 m/s | 15,031km     | 32,461 km |   0 |     8 |
+| Chimera                         | 1,540 m/s | 14,900km     | 32,166 km |   0 |     4 |
+| Caiman                          | 1,533 m/s | 14,836km     | 32,062 km |   0 |     5 |
+| Revelation                      | 1,524 m/s | 14,750km     | 31,897 km |   0 |     8 |
+| Revelation Navy Issue           | 1,524 m/s | 14,750km     | 31,897 km |   0 |     8 |
+| Bane                            | 1,524 m/s | 14,750km     | 31,897 km |   0 |     8 |
+| Vendetta                        | 1,512 m/s | 14,654km     | 31,969 km |   0 |     7 |
+| Minokawa                        | 1,496 m/s | 14,484km     | 31,331 km |   0 |     4 |
+| Hel                             | 1,478 m/s | 14,327km     | 31,293 km |   0 |     5 |
+| Phoenix                         | 1,431 m/s | 13,847km     | 29,924 km |   0 |     5 |
+| Phoenix Navy Issue              | 1,431 m/s | 13,847km     | 29,924 km |   0 |     5 |
+| Karura                          | 1,431 m/s | 13,847km     | 29,924 km |   0 |     5 |
+| Nyx                             | 1,423 m/s | 13,792km     | 30,088 km |   0 |     7 |
+| Revenant                        | 1,422 m/s | 13,783km     | 30,070 km |   0 |     6 |
+| Azariel                         | 1,382 m/s | 13,413km     | 29,599 km |   0 |     7 |
+| Aeon                            | 1,331 m/s | 12,907km     | 28,272 km |   0 |     8 |
+| Wyvern                          | 1,267 m/s | 12,285km     | 26,864 km |   0 |     4 |
+| Rorqual ORE Development Edition | 1,236 m/s | 11,955km     | 25,753 km |   0 |     3 |
+| Ragnarok                        | 1,163 m/s | 11,288km     | 24,910 km |   0 |     6 |
+| Vanquisher                      | 1,124 m/s | 10,905km     | 24,029 km |   0 |     8 |
+| Avalanche                       | 1,116 m/s | 10,779km     | 23,001 km |   3 |     0 |
+| Erebus                          | 1,049 m/s | 10,177km     | 22,425 km |   0 |     7 |
+| Komodo                          | 916 m/s   | 8,892km      | 19,652 km |   0 |     5 |
+| Molok                           | 894 m/s   | 8,687km      | 19,225 km |   0 |     8 |
+| Leviathan                       | 845 m/s   | 8,208km      | 18,140 km |   0 |     5 |
+| Avatar                          | 826 m/s   | 8,019km      | 17,746 km |   0 |     8 |
+| Nomad                           | 235 m/s   | 2,274km      | 4,816 km  |   3 |     0 |
+| Ark                             | 206 m/s   | 1,991km      | 4,236 km  |   3 |     0 |
+| Fenrir                          | 196 m/s   | 1,895km      | 4,013 km  |   3 |     0 |
+| Anshar                          | 191 m/s   | 1,849km      | 3,942 km  |   3 |     0 |
+| Rhea                            | 176 m/s   | 1,707km      | 3,643 km  |   3 |     0 |
+| Providence                      | 171 m/s   | 1,659km      | 3,530 km  |   3 |     0 |
+| Obelisk                         | 159 m/s   | 1,541km      | 3,285 km  |   3 |     0 |
+| Charon                          | 147 m/s   | 1,422km      | 3,036 km  |   3 |     0 |
 '--------------------------------------------------------------------------------------'

@@ -24,6 +24,8 @@ const commandBurstGroupBonuses: Record<number, { rapidDeployment: number }> = {
   },
 };
 
+const combatInterceptors = new Set(["Claw", "Taranis", "Raptor", "Crusader"]);
+
 type MWD = {
   speedIncrease: number;
   thrust: number;
@@ -133,6 +135,12 @@ function shipStats(ship: (typeof ships)[0]) {
     mwdSpeed =
       baseSpeed *
       (1 + mwdIncrease * (mwd.thrust / (ship.mass + mwd.massAddition)));
+  }
+
+  if (combatInterceptors.has(ship.name)) {
+    mwdSpeed *= 2; // Overload on a combat ceptor is bonused
+  } else {
+    mwdSpeed *= 1.5; // Overload 50% increase
   }
 
   const m1 = (ship.mass + mwd.massAddition) / 1_000_000;

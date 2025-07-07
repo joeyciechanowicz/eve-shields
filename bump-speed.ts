@@ -70,7 +70,6 @@ function bumpDistance(v1: number, m1: number, m2: number, inertiaModifier: numbe
 }
 
 function shipStats(ship: (typeof ships)[0]) {
-
   let baseSpeed = ship.dogma.dogmaAttributes.maxVelocity;
   baseSpeed *= 1.25; // Nav V
   baseSpeed *= 1.2473; // HG Snakes
@@ -123,7 +122,7 @@ for (const ship of ships) {
 }
 
 Object.keys(rigToShipStats).forEach((key) => {
-  rigToShipStats[key].sort((a, b) => b.tornadoBump - a.tornadoBump);
+  rigToShipStats[key].sort((a, b) => b.tornadoBumpDistance - a.tornadoBumpDistance);
 
   fs.writeFileSync(
     `./output/bump-tornado/rig-size-${key}.json`,
@@ -132,7 +131,7 @@ Object.keys(rigToShipStats).forEach((key) => {
 });
 
 Object.keys(rigToShipStats).forEach((key) => {
-  rigToShipStats[key].sort((a, b) => b.orcaBump - a.orcaBump);
+  rigToShipStats[key].sort((a, b) => b.orcaBumpDistance - a.orcaBumpDistance);
 
   fs.writeFileSync(
     `./output/bump-orca/rig-size-${key}.json`,

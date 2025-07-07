@@ -1,150 +1,10 @@
 [
 	{
-		"ship": "Reaper",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3407,
-		"tornadoBumpDistance": 3268,
-		"orcaBumpDistance": 961
-	},
-	{
-		"ship": "Impairor",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3312,
-		"tornadoBumpDistance": 3162,
-		"orcaBumpDistance": 929
-	},
-	{
-		"ship": "Ibis",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3232,
-		"tornadoBumpDistance": 3110,
-		"orcaBumpDistance": 915
-	},
-	{
-		"ship": "Velator",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3368,
-		"tornadoBumpDistance": 3214,
-		"orcaBumpDistance": 944
-	},
-	{
-		"ship": "Immolator",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3644,
-		"tornadoBumpDistance": 3478,
-		"orcaBumpDistance": 1022
-	},
-	{
-		"ship": "Echo",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3957,
-		"tornadoBumpDistance": 3795,
-		"orcaBumpDistance": 1116
-	},
-	{
-		"ship": "Capsule",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 4616,
-		"tornadoBumpDistance": 1523,
-		"orcaBumpDistance": 421
-	},
-	{
-		"ship": "Caldari Shuttle",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 4509,
-		"tornadoBumpDistance": 5341,
-		"orcaBumpDistance": 1606
-	},
-	{
 		"ship": "Polaris Enigma Frigate",
 		"hasCommandBurst": "no",
 		"mwdSpeed": 29927,
 		"tornadoBumpDistance": 26231,
 		"orcaBumpDistance": 7651
-	},
-	{
-		"ship": "Concord Police Frigate",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 5646,
-		"tornadoBumpDistance": 5542,
-		"orcaBumpDistance": 1633
-	},
-	{
-		"ship": "Concord SWAT Frigate",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 5108,
-		"tornadoBumpDistance": 5014,
-		"orcaBumpDistance": 1477
-	},
-	{
-		"ship": "Concord Army Frigate",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 4033,
-		"tornadoBumpDistance": 3959,
-		"orcaBumpDistance": 1166
-	},
-	{
-		"ship": "Concord Special Ops Frigate",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3495,
-		"tornadoBumpDistance": 3431,
-		"orcaBumpDistance": 1011
-	},
-	{
-		"ship": "Concord Police Cruiser",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 858,
-		"tornadoBumpDistance": 3806,
-		"orcaBumpDistance": 1707
-	},
-	{
-		"ship": "Concord Police Battleship",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 283,
-		"tornadoBumpDistance": 2442,
-		"orcaBumpDistance": 2965
-	},
-	{
-		"ship": "Concord Special Ops Battleship",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 177,
-		"tornadoBumpDistance": 1526,
-		"orcaBumpDistance": 1853
-	},
-	{
-		"ship": "Concord SWAT Battleship",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 248,
-		"tornadoBumpDistance": 2136,
-		"orcaBumpDistance": 2594
-	},
-	{
-		"ship": "Concord Army Battleship",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 212,
-		"tornadoBumpDistance": 1831,
-		"orcaBumpDistance": 2224
-	},
-	{
-		"ship": "Zephyr",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 9699,
-		"tornadoBumpDistance": 3043,
-		"orcaBumpDistance": 841
-	},
-	{
-		"ship": "Primae",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 527,
-		"tornadoBumpDistance": 2598,
-		"orcaBumpDistance": 1259
-	},
-	{
-		"ship": "Nation",
-		"hasCommandBurst": "no",
-		"mwdSpeed": null,
-		"tornadoBumpDistance": null,
-		"orcaBumpDistance": null
 	},
 	{
 		"ship": "Polaris Inspector Frigate",
@@ -173,6 +33,55 @@
 		"mwdSpeed": 29927,
 		"tornadoBumpDistance": 26231,
 		"orcaBumpDistance": 7651
+	},
+	{
+		"ship": "Concord Police Battleship",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 283,
+		"tornadoBumpDistance": 2442,
+		"orcaBumpDistance": 2965
+	},
+	{
+		"ship": "Concord SWAT Battleship",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 248,
+		"tornadoBumpDistance": 2136,
+		"orcaBumpDistance": 2594
+	},
+	{
+		"ship": "Concord Army Battleship",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 212,
+		"tornadoBumpDistance": 1831,
+		"orcaBumpDistance": 2224
+	},
+	{
+		"ship": "Concord Special Ops Battleship",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 177,
+		"tornadoBumpDistance": 1526,
+		"orcaBumpDistance": 1853
+	},
+	{
+		"ship": "Concord Police Cruiser",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 858,
+		"tornadoBumpDistance": 3806,
+		"orcaBumpDistance": 1707
+	},
+	{
+		"ship": "Concord Police Frigate",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5646,
+		"tornadoBumpDistance": 5542,
+		"orcaBumpDistance": 1633
+	},
+	{
+		"ship": "Caldari Shuttle",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4509,
+		"tornadoBumpDistance": 5341,
+		"orcaBumpDistance": 1606
 	},
 	{
 		"ship": "Gallente Shuttle",
@@ -280,18 +189,53 @@
 		"orcaBumpDistance": 1606
 	},
 	{
-		"ship": "Hematos",
+		"ship": "Leopard",
 		"hasCommandBurst": "no",
-		"mwdSpeed": 3423,
-		"tornadoBumpDistance": 3267,
-		"orcaBumpDistance": 960
+		"mwdSpeed": 4509,
+		"tornadoBumpDistance": 5341,
+		"orcaBumpDistance": 1606
 	},
 	{
-		"ship": "Taipan",
+		"ship": "Council Diplomatic Shuttle",
 		"hasCommandBurst": "no",
-		"mwdSpeed": 3232,
-		"tornadoBumpDistance": 3110,
-		"orcaBumpDistance": 915
+		"mwdSpeed": 4509,
+		"tornadoBumpDistance": 5341,
+		"orcaBumpDistance": 1606
+	},
+	{
+		"ship": "Boobook",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4509,
+		"tornadoBumpDistance": 5341,
+		"orcaBumpDistance": 1606
+	},
+	{
+		"ship": "Concord SWAT Frigate",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5108,
+		"tornadoBumpDistance": 5014,
+		"orcaBumpDistance": 1477
+	},
+	{
+		"ship": "Primae",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 527,
+		"tornadoBumpDistance": 2598,
+		"orcaBumpDistance": 1259
+	},
+	{
+		"ship": "Concord Army Frigate",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4033,
+		"tornadoBumpDistance": 3959,
+		"orcaBumpDistance": 1166
+	},
+	{
+		"ship": "Echo",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3957,
+		"tornadoBumpDistance": 3795,
+		"orcaBumpDistance": 1116
 	},
 	{
 		"ship": "Violator",
@@ -301,18 +245,95 @@
 		"orcaBumpDistance": 1053
 	},
 	{
-		"ship": "Capsule - Genolution 'Auroral' 197-variant",
+		"ship": "Immolator",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3644,
+		"tornadoBumpDistance": 3478,
+		"orcaBumpDistance": 1022
+	},
+	{
+		"ship": "Concord Special Ops Frigate",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3495,
+		"tornadoBumpDistance": 3431,
+		"orcaBumpDistance": 1011
+	},
+	{
+		"ship": "Reaper",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3407,
+		"tornadoBumpDistance": 3268,
+		"orcaBumpDistance": 961
+	},
+	{
+		"ship": "Hematos",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3423,
+		"tornadoBumpDistance": 3267,
+		"orcaBumpDistance": 960
+	},
+	{
+		"ship": "Velator",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3368,
+		"tornadoBumpDistance": 3214,
+		"orcaBumpDistance": 944
+	},
+	{
+		"ship": "Impairor",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3312,
+		"tornadoBumpDistance": 3162,
+		"orcaBumpDistance": 929
+	},
+	{
+		"ship": "AIR Civilian Astero",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3643,
+		"tornadoBumpDistance": 3145,
+		"orcaBumpDistance": 916
+	},
+	{
+		"ship": "Ibis",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3232,
+		"tornadoBumpDistance": 3110,
+		"orcaBumpDistance": 915
+	},
+	{
+		"ship": "Taipan",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3232,
+		"tornadoBumpDistance": 3110,
+		"orcaBumpDistance": 915
+	},
+	{
+		"ship": "Zephyr",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 9699,
+		"tornadoBumpDistance": 3043,
+		"orcaBumpDistance": 841
+	},
+	{
+		"ship": "Capsule",
 		"hasCommandBurst": "no",
 		"mwdSpeed": 4616,
 		"tornadoBumpDistance": 1523,
 		"orcaBumpDistance": 421
 	},
 	{
-		"ship": "Leopard",
+		"ship": "Nation",
 		"hasCommandBurst": "no",
-		"mwdSpeed": 4509,
-		"tornadoBumpDistance": 5341,
-		"orcaBumpDistance": 1606
+		"mwdSpeed": null,
+		"tornadoBumpDistance": null,
+		"orcaBumpDistance": null
+	},
+	{
+		"ship": "Capsule - Genolution 'Auroral' 197-variant",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4616,
+		"tornadoBumpDistance": 1523,
+		"orcaBumpDistance": 421
 	},
 	{
 		"ship": "Moros Interbus Edition",
@@ -343,31 +364,10 @@
 		"orcaBumpDistance": null
 	},
 	{
-		"ship": "Council Diplomatic Shuttle",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 4509,
-		"tornadoBumpDistance": 5341,
-		"orcaBumpDistance": 1606
-	},
-	{
 		"ship": "Citizen Venture",
 		"hasCommandBurst": "no",
 		"mwdSpeed": 1613,
 		"tornadoBumpDistance": 1583,
 		"orcaBumpDistance": 466
-	},
-	{
-		"ship": "AIR Civilian Astero",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 3643,
-		"tornadoBumpDistance": 3145,
-		"orcaBumpDistance": 916
-	},
-	{
-		"ship": "Boobook",
-		"hasCommandBurst": "no",
-		"mwdSpeed": 4509,
-		"tornadoBumpDistance": 5341,
-		"orcaBumpDistance": 1606
 	}
 ]

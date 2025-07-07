@@ -1,0 +1,95 @@
+.------------------------------------------------------------------------------.
+|                 Ship                  | MWD Speed | Tornado Bump | Orca Bump |
+|---------------------------------------|-----------|--------------|-----------|
+| Machariel                             | 2,039 m/s | 18,012km     | 24,098 km |
+| 马克瑞级YC117年特别版                         | 2,039 m/s | 18,012km     | 24,098 km |
+| Barghest                              | 1,833 m/s | 16,229km     | 21,925 km |
+| Panther                               | 1,759 m/s | 15,947km     | 23,860 km |
+| Leshak                                | 1,763 m/s | 15,381km     | 19,622 km |
+| Typhoon Fleet Issue                   | 1,669 m/s | 14,814km     | 20,219 km |
+| Megathron Navy Issue                  | 1,611 m/s | 14,260km     | 19,262 km |
+| Typhoon                               | 1,590 m/s | 14,099km     | 19,149 km |
+| Vindicator                            | 1,573 m/s | 13,986km     | 19,208 km |
+| Tempest Fleet Issue                   | 1,566 m/s | 13,906km     | 19,012 km |
+| Tempest                               | 1,563 m/s | 13,852km     | 18,762 km |
+| Tempest Justice Edition               | 1,563 m/s | 13,852km     | 18,762 km |
+| Tempest Krusual Edition               | 1,563 m/s | 13,852km     | 18,762 km |
+| Tempest Nefantar Edition              | 1,563 m/s | 13,852km     | 18,762 km |
+| Nestor                                | 1,710 m/s | 13,715km     | 13,426 km |
+| Raven Navy Issue                      | 1,534 m/s | 13,570km     | 18,279 km |
+| Megathron                             | 1,511 m/s | 13,383km     | 18,077 km |
+| Megathron Quafe Edition               | 1,511 m/s | 13,383km     | 18,077 km |
+| Megathron Police Edition              | 1,511 m/s | 13,383km     | 18,077 km |
+| Megathron Inner Zone Shipping Edition | 1,511 m/s | 13,383km     | 18,077 km |
+| 万王宝座级YC117年特别版                        | 1,511 m/s | 13,383km     | 18,077 km |
+| Apocalypse Navy Issue                 | 1,498 m/s | 13,253km     | 17,843 km |
+| Tempest Tribal Issue                  | 1,445 m/s | 12,836km     | 17,549 km |
+| Hyperion                              | 1,410 m/s | 12,498km     | 16,957 km |
+| Hyperion Aliastra Edition             | 1,410 m/s | 12,498km     | 16,957 km |
+| Hyperion Inner Zone Shipping Edition  | 1,410 m/s | 12,498km     | 16,957 km |
+| Apocalypse                            | 1,411 m/s | 12,480km     | 16,802 km |
+| Apocalypse Blood Raider Edition       | 1,411 m/s | 12,480km     | 16,802 km |
+| Apocalypse Kador Edition              | 1,411 m/s | 12,480km     | 16,802 km |
+| Apocalypse Tash-Murkon Edition        | 1,411 m/s | 12,480km     | 16,802 km |
+| 灾难级YC117年特别版                          | 1,411 m/s | 12,480km     | 16,802 km |
+| Nightmare                             | 1,405 m/s | 12,447km     | 16,850 km |
+| Raven                                 | 1,393 m/s | 12,337km     | 16,703 km |
+| Raven Guristas Edition                | 1,393 m/s | 12,337km     | 16,703 km |
+| Raven Kaalakiota Edition              | 1,393 m/s | 12,337km     | 16,703 km |
+| Raven Nugoeihuvi Edition              | 1,393 m/s | 12,337km     | 16,703 km |
+| 乌鸦级YC117年特别版                          | 1,393 m/s | 12,337km     | 16,703 km |
+| Maelstrom                             | 1,383 m/s | 12,283km     | 16,805 km |
+| Vargur Justice Edition                | 1,378 m/s | 12,186km     | 16,382 km |
+| Vargur Krusual Edition                | 1,378 m/s | 12,186km     | 16,382 km |
+| Vargur Nefantar Edition               | 1,378 m/s | 12,186km     | 16,382 km |
+| GFX Test Vargur 1/2                   | 1,378 m/s | 12,186km     | 16,382 km |
+| GFX Test Vargur 2/2                   | 1,378 m/s | 12,186km     | 16,382 km |
+| Megathron Federate Issue              | 1,370 m/s | 12,185km     | 16,734 km |
+| Dominix Navy Issue                    | 1,373 m/s | 12,149km     | 16,356 km |
+| Dominix                               | 1,336 m/s | 11,842km     | 16,070 km |
+| Dominix Quafe Edition                 | 1,336 m/s | 11,842km     | 16,070 km |
+| 多米尼克斯级YC117年特别版                       | 1,336 m/s | 11,842km     | 16,070 km |
+| Kronos Police Edition                 | 1,339 m/s | 11,823km     | 15,768 km |
+| Kronos Quafe Edition                  | 1,339 m/s | 11,823km     | 15,768 km |
+| Kronos Inner Zone Shipping Edition    | 1,339 m/s | 11,823km     | 15,768 km |
+| Paladin Blood Raider Edition          | 1,285 m/s | 11,336km     | 15,069 km |
+| Paladin Kador Edition                 | 1,285 m/s | 11,336km     | 15,069 km |
+| Paladin Tash-Murkon Edition           | 1,285 m/s | 11,336km     | 15,069 km |
+| Golem Guristas Edition                | 1,269 m/s | 11,208km     | 14,982 km |
+| Golem Kaalakiota Edition              | 1,269 m/s | 11,208km     | 14,982 km |
+| Golem Nugoeihuvi Edition              | 1,269 m/s | 11,208km     | 14,982 km |
+| Bhaalgorn                             | 1,261 m/s | 11,155km     | 15,018 km |
+| Armageddon Navy Issue                 | 1,251 m/s | 11,125km     | 15,279 km |
+| Scorpion Navy Issue                   | 1,238 m/s | 11,001km     | 15,051 km |
+| Armageddon                            | 1,192 m/s | 10,595km     | 14,551 km |
+| 末日沙场级YC117年特别版                        | 1,192 m/s | 10,595km     | 14,551 km |
+| Sin                                   | 1,165 m/s | 10,539km     | 15,582 km |
+| Armageddon Imperial Issue             | 1,173 m/s | 10,382km     | 13,977 km |
+| Apocalypse Imperial Issue             | 1,158 m/s | 10,263km     | 13,894 km |
+| Rattlesnake                           | 1,158 m/s | 10,263km     | 13,894 km |
+| Raven State Issue                     | 1,158 m/s | 10,263km     | 13,894 km |
+| Rattlesnake Victory Edition           | 1,158 m/s | 10,263km     | 13,894 km |
+| 响尾蛇级YC117年特别版                         | 1,158 m/s | 10,263km     | 13,894 km |
+| Thunderchild                          | 1,152 m/s | 10,222km     | 13,936 km |
+| Redeemer                              | 1,123 m/s | 10,193km     | 15,289 km |
+| Scorpion                              | 1,130 m/s | 10,040km     | 13,736 km |
+| Scorpion Ishukone Watch               | 1,130 m/s | 10,040km     | 13,736 km |
+| Maelstrom Nefantar Edition            | 1,130 m/s | 10,040km     | 13,736 km |
+| Maelstrom Krusual Edition             | 1,130 m/s | 10,040km     | 13,736 km |
+| Vargur                                | 1,057 m/s | 9,594km      | 14,383 km |
+| Marshal                               | 1,057 m/s | 9,594km      | 14,383 km |
+| Abaddon                               | 1,072 m/s | 9,525km      | 13,019 km |
+| Abaddon Tash-Murkon Edition           | 1,072 m/s | 9,525km      | 13,019 km |
+| Abaddon Kador Edition                 | 1,072 m/s | 9,525km      | 13,019 km |
+| 地狱天使级YC117年特别版                        | 1,072 m/s | 9,525km      | 13,019 km |
+| Rokh                                  | 1,060 m/s | 9,425km      | 12,947 km |
+| Rokh Nugoeihuvi Edition               | 1,060 m/s | 9,425km      | 12,947 km |
+| Rokh Wiyrkomi Edition                 | 1,060 m/s | 9,425km      | 12,947 km |
+| Kronos                                | 1,018 m/s | 9,228km      | 13,790 km |
+| Widow                                 | 1,014 m/s | 9,207km      | 13,827 km |
+| Praxis                                | 996 m/s   | 8,753km      | 11,469 km |
+| Golem                                 | 934 m/s   | 8,498km      | 12,880 km |
+| Paladin                               | 923 m/s   | 8,406km      | 12,799 km |
+| Orca                                  | 577 m/s   | 5,233km      | 7,845 km  |
+| Orca ORE Development Edition          | 417 m/s   | 3,877km      | 6,534 km  |
+'------------------------------------------------------------------------------'

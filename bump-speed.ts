@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import ships from "./sde-json/ships_with_dogma.json";
+import AsciiTable from 'ascii-table';
 // import ships from "./test-ships.json";
 
 /*
@@ -8,7 +9,7 @@ https://docs.google.com/document/d/1rwVWjTvzVdPEFETf0vwm649AFb4bgRBaNLpRPaoB03o
 */
 
 // These assume Skirmish Mindlink
-const commandBurstGroupBonuses = {
+const commandBurstGroupBonuses: Record<number, { rapidDeployment: number }> = {
   // Combat battlecruisers - 1 link
   419: {
     rapidDeployment: 1.208, // 20.8%
@@ -21,9 +22,15 @@ const commandBurstGroupBonuses = {
   1534: {
     rapidDeployment: 1.309, // 30.9%
   },
-} as const;
+};
 
-const rigSizeToMWD = {
+type MWD = {
+  speedIncrease: number;
+  thrust: number;
+  pwg: number;
+  massAddition: number;
+};
+const rigSizeToMWD: Record<number, MWD> = {
   0: {
     // Compact 5mn
     speedIncrease: 5.05,
@@ -59,7 +66,7 @@ const rigSizeToMWD = {
     pwg: 80_000,
     massAddition: 500_000_000,
   },
-} as const;
+};
 
 function calcSackingPenalty(n: number) {
   return Math.pow(Math.E, -1 * Math.pow(n / 2.67, 2));
@@ -87,7 +94,11 @@ function shipStats(ship: (typeof ships)[0]) {
     mwdIncrease *= commandBurstGroupBonuses[ship.groupID].rapidDeployment;
   }
 
-  const mwdSpeed = baseSpeed * (1 + mwdIncrease * (mwd.thrust / (ship.mass + mwd.massAddition)));
+  let mwdSpeed = baseSpeed;
+  if (ship.dogma.dogmaAttributes.medSlots > 0) {
+    mwdSpeed = baseSpeed * (1 + mwdIncrease * (mwd.thrust / (ship.mass + mwd.massAddition)));
+  }
+
 
   const m1 = (ship.mass + mwd.massAddition) / 1_000_000;
 
@@ -103,7 +114,7 @@ function shipStats(ship: (typeof ships)[0]) {
   };
 }
 
-const rigToShipStats = {
+const rigToShipStats: Record<number, ReturnType<typeof shipStats>[]> = {
   0: [],
   1: [],
   2: [],
@@ -121,20 +132,34 @@ for (const ship of ships) {
   rigToShipStats[ship.dogma.dogmaAttributes.rigSize ?? 0].push(stats);
 }
 
-Object.keys(rigToShipStats).forEach((key) => {
+Object.keys(rigToShipStats).forEach((k) => {
+  const key = Number(k);
   rigToShipStats[key].sort((a, b) => b.tornadoBumpDistance - a.tornadoBumpDistance);
 
+  const table = new AsciiTable();
+  table.setHeading('Ship', 'MWD Speed', 'Tornado Bump', 'Orca Bump');
+  rigToShipStats[key].forEach(row => {
+    table.addRow(row.ship, row.mwdSpeed.toLocaleString() + ' m/s', row.tornadoBumpDistance.toLocaleString() + 'km', row.orcaBumpDistance.toLocaleString() + ' km')
+  });
+
   fs.writeFileSync(
-    `./output/bump-tornado/rig-size-${key}.json`,
-    JSON.stringify(rigToShipStats[key], null, "\t")
+    `./output/bump-tornado/rig-size-${key}.txt`,
+    table.toString()
   );
 });
 
-Object.keys(rigToShipStats).forEach((key) => {
+Object.keys(rigToShipStats).forEach((k) => {
+  const key = Number(k);
   rigToShipStats[key].sort((a, b) => b.orcaBumpDistance - a.orcaBumpDistance);
 
+  const table = new AsciiTable();
+  table.setHeading('Ship', 'MWD Speed', 'Tornado Bump', 'Orca Bump');
+  rigToShipStats[key].forEach(row => {
+    table.addRow(row.ship, row.mwdSpeed.toLocaleString() + ' m/s', row.tornadoBumpDistance.toLocaleString() + 'km', row.orcaBumpDistance.toLocaleString() + ' km')
+  });
+
   fs.writeFileSync(
-    `./output/bump-orca/rig-size-${key}.json`,
-    JSON.stringify(rigToShipStats[key], null, "\t")
+    `./output/bump-orca/rig-size-${key}.txt`,
+    table.toString()
   );
 });

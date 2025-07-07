@@ -1,0 +1,1213 @@
+[
+	{
+		"ship": "Osprey",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5671,
+		"tornadoBumpDistance": 44319,
+		"orcaBumpDistance": 40660
+	},
+	{
+		"ship": "Caracal",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6135,
+		"tornadoBumpDistance": 48068,
+		"orcaBumpDistance": 44380
+	},
+	{
+		"ship": "Stabber",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7796,
+		"tornadoBumpDistance": 60981,
+		"orcaBumpDistance": 56078
+	},
+	{
+		"ship": "Moa",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5061,
+		"tornadoBumpDistance": 39666,
+		"orcaBumpDistance": 36648
+	},
+	{
+		"ship": "Maller",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5367,
+		"tornadoBumpDistance": 42217,
+		"orcaBumpDistance": 39351
+	},
+	{
+		"ship": "Augoror",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6178,
+		"tornadoBumpDistance": 48556,
+		"orcaBumpDistance": 45163
+	},
+	{
+		"ship": "Vexor",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5266,
+		"tornadoBumpDistance": 41153,
+		"orcaBumpDistance": 37756
+	},
+	{
+		"ship": "Thorax",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6463,
+		"tornadoBumpDistance": 50540,
+		"orcaBumpDistance": 46433
+	},
+	{
+		"ship": "Arbitrator",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5393,
+		"tornadoBumpDistance": 42157,
+		"orcaBumpDistance": 38707
+	},
+	{
+		"ship": "Rupture",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5577,
+		"tornadoBumpDistance": 43737,
+		"orcaBumpDistance": 40472
+	},
+	{
+		"ship": "Bellicose",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6973,
+		"tornadoBumpDistance": 54574,
+		"orcaBumpDistance": 50245
+	},
+	{
+		"ship": "Scythe",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6750,
+		"tornadoBumpDistance": 52754,
+		"orcaBumpDistance": 48403
+	},
+	{
+		"ship": "Blackbird",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4971,
+		"tornadoBumpDistance": 39110,
+		"orcaBumpDistance": 36465
+	},
+	{
+		"ship": "Celestis",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5588,
+		"tornadoBumpDistance": 43805,
+		"orcaBumpDistance": 40494
+	},
+	{
+		"ship": "Exequror",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6489,
+		"tornadoBumpDistance": 50699,
+		"orcaBumpDistance": 46484
+	},
+	{
+		"ship": "Opux Luxury Yacht",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6553,
+		"tornadoBumpDistance": 51530,
+		"orcaBumpDistance": 48004
+	},
+	{
+		"ship": "Badger",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3453,
+		"tornadoBumpDistance": 26949,
+		"orcaBumpDistance": 24636
+	},
+	{
+		"ship": "Tayra",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3017,
+		"tornadoBumpDistance": 23725,
+		"orcaBumpDistance": 22089
+	},
+	{
+		"ship": "Nereus",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3502,
+		"tornadoBumpDistance": 27386,
+		"orcaBumpDistance": 25154
+	},
+	{
+		"ship": "Hoarder",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3536,
+		"tornadoBumpDistance": 27594,
+		"orcaBumpDistance": 25221
+	},
+	{
+		"ship": "Mammoth",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3221,
+		"tornadoBumpDistance": 25203,
+		"orcaBumpDistance": 23195
+	},
+	{
+		"ship": "Wreathe",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3846,
+		"tornadoBumpDistance": 29945,
+		"orcaBumpDistance": 27234
+	},
+	{
+		"ship": "Kryos",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3166,
+		"tornadoBumpDistance": 24866,
+		"orcaBumpDistance": 23085
+	},
+	{
+		"ship": "Epithal",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3158,
+		"tornadoBumpDistance": 24815,
+		"orcaBumpDistance": 23068
+	},
+	{
+		"ship": "Miasmos",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3150,
+		"tornadoBumpDistance": 24763,
+		"orcaBumpDistance": 23051
+	},
+	{
+		"ship": "Iteron Mark V",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2735,
+		"tornadoBumpDistance": 21535,
+		"orcaBumpDistance": 20126
+	},
+	{
+		"ship": "Bestower",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2865,
+		"tornadoBumpDistance": 22560,
+		"orcaBumpDistance": 21084
+	},
+	{
+		"ship": "Omen",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6822,
+		"tornadoBumpDistance": 53639,
+		"orcaBumpDistance": 49940
+	},
+	{
+		"ship": "Adrestia",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6157,
+		"tornadoBumpDistance": 48118,
+		"orcaBumpDistance": 44145
+	},
+	{
+		"ship": "Noctis",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3970,
+		"tornadoBumpDistance": 31371,
+		"orcaBumpDistance": 29569
+	},
+	{
+		"ship": "Vangel",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5576,
+		"tornadoBumpDistance": 43690,
+		"orcaBumpDistance": 40332
+	},
+	{
+		"ship": "Gnosis",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4434,
+		"tornadoBumpDistance": 34524,
+		"orcaBumpDistance": 31398
+	},
+	{
+		"ship": "Oracle",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5114,
+		"tornadoBumpDistance": 40423,
+		"orcaBumpDistance": 38135
+	},
+	{
+		"ship": "Naga",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4969,
+		"tornadoBumpDistance": 39303,
+		"orcaBumpDistance": 37144
+	},
+	{
+		"ship": "Talos",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5562,
+		"tornadoBumpDistance": 44063,
+		"orcaBumpDistance": 41811
+	},
+	{
+		"ship": "Tornado",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5715,
+		"tornadoBumpDistance": 45232,
+		"orcaBumpDistance": 42819
+	},
+	{
+		"ship": "Miasmos Quafe Ultra Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3233,
+		"tornadoBumpDistance": 25279,
+		"orcaBumpDistance": 23219
+	},
+	{
+		"ship": "Miasmos Quafe Ultramarine Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3233,
+		"tornadoBumpDistance": 25279,
+		"orcaBumpDistance": 23219
+	},
+	{
+		"ship": "Guardian-Vexor",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4875,
+		"tornadoBumpDistance": 38075,
+		"orcaBumpDistance": 34879
+	},
+	{
+		"ship": "Falcon",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5096,
+		"tornadoBumpDistance": 39973,
+		"orcaBumpDistance": 36998
+	},
+	{
+		"ship": "Rook",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5111,
+		"tornadoBumpDistance": 40151,
+		"orcaBumpDistance": 37305
+	},
+	{
+		"ship": "Huginn",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6437,
+		"tornadoBumpDistance": 50376,
+		"orcaBumpDistance": 46380
+	},
+	{
+		"ship": "Rapier",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6217,
+		"tornadoBumpDistance": 48575,
+		"orcaBumpDistance": 44544
+	},
+	{
+		"ship": "Pilgrim",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5325,
+		"tornadoBumpDistance": 41650,
+		"orcaBumpDistance": 38293
+	},
+	{
+		"ship": "Arazu",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5543,
+		"tornadoBumpDistance": 43397,
+		"orcaBumpDistance": 39986
+	},
+	{
+		"ship": "Lachesis",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5854,
+		"tornadoBumpDistance": 45891,
+		"orcaBumpDistance": 42422
+	},
+	{
+		"ship": "Scimitar",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6730,
+		"tornadoBumpDistance": 52762,
+		"orcaBumpDistance": 48781
+	},
+	{
+		"ship": "Basilisk",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5028,
+		"tornadoBumpDistance": 39549,
+		"orcaBumpDistance": 36859
+	},
+	{
+		"ship": "Guardian",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5569,
+		"tornadoBumpDistance": 43643,
+		"orcaBumpDistance": 40316
+	},
+	{
+		"ship": "Oneiros",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6021,
+		"tornadoBumpDistance": 47360,
+		"orcaBumpDistance": 44148
+	},
+	{
+		"ship": "Cerberus",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5797,
+		"tornadoBumpDistance": 45537,
+		"orcaBumpDistance": 42306
+	},
+	{
+		"ship": "Onyx",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5067,
+		"tornadoBumpDistance": 40127,
+		"orcaBumpDistance": 38034
+	},
+	{
+		"ship": "Vagabond",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7907,
+		"tornadoBumpDistance": 61890,
+		"orcaBumpDistance": 57000
+	},
+	{
+		"ship": "Zealot",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5545,
+		"tornadoBumpDistance": 43539,
+		"orcaBumpDistance": 40407
+	},
+	{
+		"ship": "Ishtar",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4762,
+		"tornadoBumpDistance": 37157,
+		"orcaBumpDistance": 33955
+	},
+	{
+		"ship": "Eagle",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4280,
+		"tornadoBumpDistance": 33515,
+		"orcaBumpDistance": 30898
+	},
+	{
+		"ship": "Broadsword",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5606,
+		"tornadoBumpDistance": 44342,
+		"orcaBumpDistance": 41907
+	},
+	{
+		"ship": "Muninn",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6356,
+		"tornadoBumpDistance": 49655,
+		"orcaBumpDistance": 45520
+	},
+	{
+		"ship": "Devoter",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5386,
+		"tornadoBumpDistance": 42746,
+		"orcaBumpDistance": 40752
+	},
+	{
+		"ship": "Sacrilege",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5348,
+		"tornadoBumpDistance": 41879,
+		"orcaBumpDistance": 38618
+	},
+	{
+		"ship": "Phobos",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5300,
+		"tornadoBumpDistance": 41799,
+		"orcaBumpDistance": 39212
+	},
+	{
+		"ship": "Deimos",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6177,
+		"tornadoBumpDistance": 48329,
+		"orcaBumpDistance": 44465
+	},
+	{
+		"ship": "Crane",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4327,
+		"tornadoBumpDistance": 33808,
+		"orcaBumpDistance": 30992
+	},
+	{
+		"ship": "Bustard",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 1902,
+		"tornadoBumpDistance": 15253,
+		"orcaBumpDistance": 14931
+	},
+	{
+		"ship": "Prorator",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4616,
+		"tornadoBumpDistance": 36030,
+		"orcaBumpDistance": 32964
+	},
+	{
+		"ship": "Prowler",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5932,
+		"tornadoBumpDistance": 46373,
+		"orcaBumpDistance": 42578
+	},
+	{
+		"ship": "Viator",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4532,
+		"tornadoBumpDistance": 35293,
+		"orcaBumpDistance": 32097
+	},
+	{
+		"ship": "Occator",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2651,
+		"tornadoBumpDistance": 21201,
+		"orcaBumpDistance": 20613
+	},
+	{
+		"ship": "Mastodon",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2884,
+		"tornadoBumpDistance": 23078,
+		"orcaBumpDistance": 22469
+	},
+	{
+		"ship": "Impel",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2154,
+		"tornadoBumpDistance": 17252,
+		"orcaBumpDistance": 16832
+	},
+	{
+		"ship": "Ferox",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4463,
+		"tornadoBumpDistance": 35222,
+		"orcaBumpDistance": 33103
+	},
+	{
+		"ship": "Brutix",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5109,
+		"tornadoBumpDistance": 40021,
+		"orcaBumpDistance": 36918
+	},
+	{
+		"ship": "Cyclone",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5696,
+		"tornadoBumpDistance": 44697,
+		"orcaBumpDistance": 41425
+	},
+	{
+		"ship": "Prophecy",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5153,
+		"tornadoBumpDistance": 40791,
+		"orcaBumpDistance": 38635
+	},
+	{
+		"ship": "Covetor",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3822,
+		"tornadoBumpDistance": 30233,
+		"orcaBumpDistance": 28573
+	},
+	{
+		"ship": "Retriever",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3075,
+		"tornadoBumpDistance": 24493,
+		"orcaBumpDistance": 23567
+	},
+	{
+		"ship": "Procurer",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2378,
+		"tornadoBumpDistance": 19066,
+		"orcaBumpDistance": 18664
+	},
+	{
+		"ship": "Caracal Navy Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5805,
+		"tornadoBumpDistance": 45140,
+		"orcaBumpDistance": 40920
+	},
+	{
+		"ship": "Omen Navy Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7184,
+		"tornadoBumpDistance": 56096,
+		"orcaBumpDistance": 51364
+	},
+	{
+		"ship": "Stabber Fleet Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6782,
+		"tornadoBumpDistance": 52947,
+		"orcaBumpDistance": 48464
+	},
+	{
+		"ship": "Gila",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5390,
+		"tornadoBumpDistance": 41916,
+		"orcaBumpDistance": 37997
+	},
+	{
+		"ship": "Phantasm",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6303,
+		"tornadoBumpDistance": 49010,
+		"orcaBumpDistance": 44428
+	},
+	{
+		"ship": "Cynabal",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7334,
+		"tornadoBumpDistance": 56923,
+		"orcaBumpDistance": 51369
+	},
+	{
+		"ship": "Vigilant",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6666,
+		"tornadoBumpDistance": 51871,
+		"orcaBumpDistance": 47110
+	},
+	{
+		"ship": "Vexor Navy Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5796,
+		"tornadoBumpDistance": 45085,
+		"orcaBumpDistance": 40903
+	},
+	{
+		"ship": "Ashimmu",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5625,
+		"tornadoBumpDistance": 43945,
+		"orcaBumpDistance": 40288
+	},
+	{
+		"ship": "Sigil",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3381,
+		"tornadoBumpDistance": 26412,
+		"orcaBumpDistance": 24212
+	},
+	{
+		"ship": "Curse",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5476,
+		"tornadoBumpDistance": 42895,
+		"orcaBumpDistance": 39573
+	},
+	{
+		"ship": "Eos",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5223,
+		"tornadoBumpDistance": 40999,
+		"orcaBumpDistance": 38026
+	},
+	{
+		"ship": "Sleipnir",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5719,
+		"tornadoBumpDistance": 44936,
+		"orcaBumpDistance": 41773
+	},
+	{
+		"ship": "Vulture",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4766,
+		"tornadoBumpDistance": 37584,
+		"orcaBumpDistance": 35257
+	},
+	{
+		"ship": "Absolution",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5518,
+		"tornadoBumpDistance": 43291,
+		"orcaBumpDistance": 40090
+	},
+	{
+		"ship": "Astarte",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5763,
+		"tornadoBumpDistance": 45209,
+		"orcaBumpDistance": 41866
+	},
+	{
+		"ship": "Claymore",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5919,
+		"tornadoBumpDistance": 46466,
+		"orcaBumpDistance": 43097
+	},
+	{
+		"ship": "Nighthawk",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5168,
+		"tornadoBumpDistance": 40655,
+		"orcaBumpDistance": 37909
+	},
+	{
+		"ship": "Damnation",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5144,
+		"tornadoBumpDistance": 40509,
+		"orcaBumpDistance": 37858
+	},
+	{
+		"ship": "Hulk",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4077,
+		"tornadoBumpDistance": 32249,
+		"orcaBumpDistance": 30477
+	},
+	{
+		"ship": "Skiff",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2615,
+		"tornadoBumpDistance": 20973,
+		"orcaBumpDistance": 20531
+	},
+	{
+		"ship": "Mackinaw",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3198,
+		"tornadoBumpDistance": 25473,
+		"orcaBumpDistance": 24510
+	},
+	{
+		"ship": "Harbinger",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5289,
+		"tornadoBumpDistance": 41894,
+		"orcaBumpDistance": 39738
+	},
+	{
+		"ship": "Drake",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4668,
+		"tornadoBumpDistance": 36761,
+		"orcaBumpDistance": 34356
+	},
+	{
+		"ship": "Myrmidon",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4567,
+		"tornadoBumpDistance": 35876,
+		"orcaBumpDistance": 33326
+	},
+	{
+		"ship": "Hurricane",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5661,
+		"tornadoBumpDistance": 44483,
+		"orcaBumpDistance": 41352
+	},
+	{
+		"ship": "Opux Dragoon Yacht",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 52425,
+		"tornadoBumpDistance": 412245,
+		"orcaBumpDistance": 384036
+	},
+	{
+		"ship": "Scythe Fleet Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7584,
+		"tornadoBumpDistance": 59228,
+		"orcaBumpDistance": 54257
+	},
+	{
+		"ship": "Augoror Navy Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5847,
+		"tornadoBumpDistance": 45623,
+		"orcaBumpDistance": 41708
+	},
+	{
+		"ship": "Osprey Navy Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6949,
+		"tornadoBumpDistance": 54423,
+		"orcaBumpDistance": 50197
+	},
+	{
+		"ship": "Exequror Navy Issue",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7541,
+		"tornadoBumpDistance": 58963,
+		"orcaBumpDistance": 54172
+	},
+	{
+		"ship": "Tengu",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4370,
+		"tornadoBumpDistance": 34502,
+		"orcaBumpDistance": 32463
+	},
+	{
+		"ship": "Legion",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4748,
+		"tornadoBumpDistance": 37503,
+		"orcaBumpDistance": 35313
+	},
+	{
+		"ship": "Proteus",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6008,
+		"tornadoBumpDistance": 47282,
+		"orcaBumpDistance": 44122
+	},
+	{
+		"ship": "Loki",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4797,
+		"tornadoBumpDistance": 37809,
+		"orcaBumpDistance": 35416
+	},
+	{
+		"ship": "Mimir",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5623,
+		"tornadoBumpDistance": 44026,
+		"orcaBumpDistance": 40566
+	},
+	{
+		"ship": "Etana",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5238,
+		"tornadoBumpDistance": 41197,
+		"orcaBumpDistance": 38394
+	},
+	{
+		"ship": "Miasmos Amastris Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3233,
+		"tornadoBumpDistance": 25279,
+		"orcaBumpDistance": 23219
+	},
+	{
+		"ship": "Brutix Navy Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5269,
+		"tornadoBumpDistance": 41271,
+		"orcaBumpDistance": 38072
+	},
+	{
+		"ship": "Drake Navy Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5602,
+		"tornadoBumpDistance": 44113,
+		"orcaBumpDistance": 41227
+	},
+	{
+		"ship": "Harbinger Navy Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5289,
+		"tornadoBumpDistance": 41894,
+		"orcaBumpDistance": 39738
+	},
+	{
+		"ship": "Hurricane Fleet Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5819,
+		"tornadoBumpDistance": 45719,
+		"orcaBumpDistance": 42501
+	},
+	{
+		"ship": "Moracha",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7291,
+		"tornadoBumpDistance": 56518,
+		"orcaBumpDistance": 50859
+	},
+	{
+		"ship": "Stratios",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5051,
+		"tornadoBumpDistance": 39243,
+		"orcaBumpDistance": 35502
+	},
+	{
+		"ship": "Stratios Emergency Responder",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5412,
+		"tornadoBumpDistance": 42046,
+		"orcaBumpDistance": 38038
+	},
+	{
+		"ship": "Omen Kador Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6822,
+		"tornadoBumpDistance": 53639,
+		"orcaBumpDistance": 49940
+	},
+	{
+		"ship": "Omen Tash-Murkon Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6822,
+		"tornadoBumpDistance": 53639,
+		"orcaBumpDistance": 49940
+	},
+	{
+		"ship": "Caracal Nugoeihuvi Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6135,
+		"tornadoBumpDistance": 48068,
+		"orcaBumpDistance": 44380
+	},
+	{
+		"ship": "Caracal Wiyrkomi Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6135,
+		"tornadoBumpDistance": 48068,
+		"orcaBumpDistance": 44380
+	},
+	{
+		"ship": "Stabber Nefantar Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7796,
+		"tornadoBumpDistance": 60981,
+		"orcaBumpDistance": 56078
+	},
+	{
+		"ship": "Stabber Krusual Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7796,
+		"tornadoBumpDistance": 60981,
+		"orcaBumpDistance": 56078
+	},
+	{
+		"ship": "Thorax Aliastra Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6463,
+		"tornadoBumpDistance": 50540,
+		"orcaBumpDistance": 46433
+	},
+	{
+		"ship": "Thorax Inner Zone Shipping Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6463,
+		"tornadoBumpDistance": 50540,
+		"orcaBumpDistance": 46433
+	},
+	{
+		"ship": "Chameleon",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4528,
+		"tornadoBumpDistance": 35490,
+		"orcaBumpDistance": 32790
+	},
+	{
+		"ship": "Mackinaw ORE Development Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2140,
+		"tornadoBumpDistance": 17160,
+		"orcaBumpDistance": 16798
+	},
+	{
+		"ship": "Iteron Inner Zone Shipping Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2735,
+		"tornadoBumpDistance": 21535,
+		"orcaBumpDistance": 20126
+	},
+	{
+		"ship": "Tayra Wiyrkomi Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3017,
+		"tornadoBumpDistance": 23725,
+		"orcaBumpDistance": 22089
+	},
+	{
+		"ship": "Mammoth Nefantar Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3221,
+		"tornadoBumpDistance": 25203,
+		"orcaBumpDistance": 23195
+	},
+	{
+		"ship": "Bestower Tash-Murkon Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2865,
+		"tornadoBumpDistance": 22560,
+		"orcaBumpDistance": 21084
+	},
+	{
+		"ship": "Orthrus",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6382,
+		"tornadoBumpDistance": 49586,
+		"orcaBumpDistance": 44863
+	},
+	{
+		"ship": "Brutix Serpentis Edition",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4897,
+		"tornadoBumpDistance": 38443,
+		"orcaBumpDistance": 35656
+	},
+	{
+		"ship": "Cyclone Thukker Tribe Edition",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5213,
+		"tornadoBumpDistance": 40923,
+		"orcaBumpDistance": 37956
+	},
+	{
+		"ship": "Ferox Guristas Edition",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4373,
+		"tornadoBumpDistance": 34412,
+		"orcaBumpDistance": 32100
+	},
+	{
+		"ship": "Prophecy Blood Raiders Edition",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4711,
+		"tornadoBumpDistance": 37025,
+		"orcaBumpDistance": 34445
+	},
+	{
+		"ship": "Vexor Quafe Edition",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5266,
+		"tornadoBumpDistance": 41153,
+		"orcaBumpDistance": 37756
+	},
+	{
+		"ship": "幼龙级YC117年特别版",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4579,
+		"tornadoBumpDistance": 36198,
+		"orcaBumpDistance": 34162
+	},
+	{
+		"ship": "毒蜥级YC117年特别版",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5390,
+		"tornadoBumpDistance": 41916,
+		"orcaBumpDistance": 37997
+	},
+	{
+		"ship": "银鹰级YC117年特别版",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5082,
+		"tornadoBumpDistance": 39799,
+		"orcaBumpDistance": 36691
+	},
+	{
+		"ship": "伊什塔级YC117年特别版",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4726,
+		"tornadoBumpDistance": 36932,
+		"orcaBumpDistance": 33883
+	},
+	{
+		"ship": "Victorieux Luxury Yacht",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 8007,
+		"tornadoBumpDistance": 60201,
+		"orcaBumpDistance": 50591
+	},
+	{
+		"ship": "Fiend",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6698,
+		"tornadoBumpDistance": 51975,
+		"orcaBumpDistance": 46887
+	},
+	{
+		"ship": "Porpoise",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 3007,
+		"tornadoBumpDistance": 22951,
+		"orcaBumpDistance": 19922
+	},
+	{
+		"ship": "Rabisu",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6560,
+		"tornadoBumpDistance": 51576,
+		"orcaBumpDistance": 48019
+	},
+	{
+		"ship": "Enforcer",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5023,
+		"tornadoBumpDistance": 39430,
+		"orcaBumpDistance": 36571
+	},
+	{
+		"ship": "Victor",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5891,
+		"tornadoBumpDistance": 46122,
+		"orcaBumpDistance": 42497
+	},
+	{
+		"ship": "Monitor",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5527,
+		"tornadoBumpDistance": 43840,
+		"orcaBumpDistance": 41734
+	},
+	{
+		"ship": "Vedmak",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6642,
+		"tornadoBumpDistance": 51634,
+		"orcaBumpDistance": 46780
+	},
+	{
+		"ship": "Tiamat",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7334,
+		"tornadoBumpDistance": 57012,
+		"orcaBumpDistance": 51653
+	},
+	{
+		"ship": "Drekavac",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5295,
+		"tornadoBumpDistance": 41324,
+		"orcaBumpDistance": 37793
+	},
+	{
+		"ship": "Rodiva",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6471,
+		"tornadoBumpDistance": 50405,
+		"orcaBumpDistance": 45885
+	},
+	{
+		"ship": "Zarmazd",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6513,
+		"tornadoBumpDistance": 50757,
+		"orcaBumpDistance": 46250
+	},
+	{
+		"ship": "Ikitursa",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5869,
+		"tornadoBumpDistance": 45984,
+		"orcaBumpDistance": 42452
+	},
+	{
+		"ship": "Test Site Maller",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5367,
+		"tornadoBumpDistance": 42217,
+		"orcaBumpDistance": 39351
+	},
+	{
+		"ship": "Stormbringer",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 5356,
+		"tornadoBumpDistance": 41934,
+		"orcaBumpDistance": 38635
+	},
+	{
+		"ship": "Laelaps",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6289,
+		"tornadoBumpDistance": 49016,
+		"orcaBumpDistance": 44684
+	},
+	{
+		"ship": "Cyclone Fleet Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 6012,
+		"tornadoBumpDistance": 47181,
+		"orcaBumpDistance": 43726
+	},
+	{
+		"ship": "Ferox Navy Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5232,
+		"tornadoBumpDistance": 41295,
+		"orcaBumpDistance": 38810
+	},
+	{
+		"ship": "Myrmidon Navy Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4882,
+		"tornadoBumpDistance": 38351,
+		"orcaBumpDistance": 35624
+	},
+	{
+		"ship": "Prophecy Navy Issue",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 5153,
+		"tornadoBumpDistance": 40791,
+		"orcaBumpDistance": 38635
+	},
+	{
+		"ship": "Bestla",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 8034,
+		"tornadoBumpDistance": 62894,
+		"orcaBumpDistance": 57951
+	},
+	{
+		"ship": "Cybele",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 6346,
+		"tornadoBumpDistance": 49595,
+		"orcaBumpDistance": 45501
+	},
+	{
+		"ship": "Alligator",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 4980,
+		"tornadoBumpDistance": 39211,
+		"orcaBumpDistance": 36646
+	},
+	{
+		"ship": "Khizriel",
+		"hasCommandBurst": "yes",
+		"mwdSpeed": 6414,
+		"tornadoBumpDistance": 50197,
+		"orcaBumpDistance": 46205
+	},
+	{
+		"ship": "Squall",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 4606,
+		"tornadoBumpDistance": 36188,
+		"orcaBumpDistance": 33641
+	},
+	{
+		"ship": "Deluge",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 7190,
+		"tornadoBumpDistance": 56130,
+		"orcaBumpDistance": 51374
+	},
+	{
+		"ship": "Torrent",
+		"hasCommandBurst": "no",
+		"mwdSpeed": 2384,
+		"tornadoBumpDistance": 19107,
+		"orcaBumpDistance": 18679
+	}
+]

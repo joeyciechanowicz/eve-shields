@@ -228,7 +228,7 @@ Object.keys(rigToShipStats).forEach((key) => {
   rigToShipStats[key].sort((a, b) => b.effectiveHpPerSec - a.effectiveHpPerSec);
 
   fs.writeFileSync(
-    `./output/rig-size-${key}.json`,
+    `./output/shield/rig-size-${key}.json`,
     JSON.stringify(rigToShipStats[key], null, "\t")
   );
 });
